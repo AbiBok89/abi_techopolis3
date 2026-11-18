@@ -1,0 +1,71 @@
+{
+  "id": "contained_colors_blue_wood_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_blue_wood_copy",
+    "fallback": "Colors: Blue Wood "
+  },
+  "enabled": true,
+  "icon": [
+    "colors:blue_planks",
+    "colors:blue_log"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_plank"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_stripped_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_stripped_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

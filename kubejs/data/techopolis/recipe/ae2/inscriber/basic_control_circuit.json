@@ -1,0 +1,19 @@
+{
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "item": "alltheores:osmium_ingot"
+    },
+    "middle": {
+      "item": "minecraft:redstone"
+    },
+    "top": {
+      "item": "alltheores:lead_ingot"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "count": 1,
+    "id": "mekanism:basic_control_circuit"
+  }
+}

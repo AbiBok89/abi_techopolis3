@@ -1,0 +1,10 @@
+{
+    "type": "immersiveengineering:blast_furnace",
+    "input": {
+      "tag": "c:dusts/silver"
+    },
+    "result": {
+      "item": "alltheores:silver_ingot"
+    },
+    "time": 200
+  }

@@ -1,0 +1,192 @@
+{
+  "id": "contained_colors_lime_stone_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_lime_stone_copy",
+    "fallback": "Colors: Lime Stone"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:lime_stone",
+    "colors:lime_asteroid"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_stone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_braid"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_polished"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_tile"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_prismarine"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_dark_prismarine"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_cracked_stone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_brick"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_cobblestone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_marble"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_chaotic"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_mosaic"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_triple"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_encased"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_road"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_asteroid"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

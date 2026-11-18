@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_apple_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_apple_copy",
+    "fallback": "Colors: Apples"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "apple"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

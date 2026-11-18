@@ -1,0 +1,19 @@
+{
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "item": "mekanism:alloy_reinforced"
+    },
+    "middle": {
+      "item": "mekanism:advanced_control_circuit"
+    },
+    "top": {
+      "item": "techopolis:advanced_technium_ingot"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "count": 1,
+    "id": "mekanism:elite_control_circuit"
+  }
+}

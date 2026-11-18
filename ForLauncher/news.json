@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "2026-11-18-13-5",
+      "date": "2026-11-18",
+      "title": "Релиз Techopolis 3 (v13.5)",
+      "body": "Сборка Techopolis 3 версии 13.5 добавлена в AbiLauncher (Minecraft 1.21.1, NeoForge 21.1.262, Java 21).",
+      "packVersion": "13.5"
+    }
+  ]
+}

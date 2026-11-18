@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "compressed_blocks_crates",
+  "name": {
+    "translate": "collapsible_groups.group.compressed_blocks_crates",
+    "fallback": "Compressed Blocks: Crates"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "compressedblocks"
+      },
+      {
+        "item_path_contains": "crated"
+      }
+    ]
+  }
+}

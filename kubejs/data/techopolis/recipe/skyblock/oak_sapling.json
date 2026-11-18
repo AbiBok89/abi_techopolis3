@@ -1,0 +1,26 @@
+{
+    "neoforge:conditions": [
+      {
+        "type": "bblcore:world_type_condition",
+        "world_type": "skyblockbuilder:noise_based"
+      }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "S": {
+        "tag": "c:rods/wooden"
+      },
+      "T": {
+        "item": "projectvibrantjourneys:twigs"
+      }
+    },
+    "pattern": [
+      " T ",
+      " S "
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:oak_sapling"
+    }
+  }

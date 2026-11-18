@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "mekanism:teleportation_core"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "techopolis:dimensional_dust"
+    },
+    "count": 4
+  }
+}

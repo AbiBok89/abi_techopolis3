@@ -1,0 +1,26 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "tag": "c:ingots/platinum"
+    },
+    {"basePredicate": {"item": "minecraft:ender_pearl"},"count": 2}
+  ],
+  "energy": 3200,
+  "input": {
+    "basePredicate": {
+      "tag": "c:ingots/lead"
+    },
+    "count": 3
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "alltheores:enderium_ingot"
+      },
+      "count": 4
+    }
+  ],
+  "time": 100
+}
+

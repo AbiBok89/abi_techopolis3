@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+      "item": "techopolis:pure_earth_matter"
+    },
+    "matter": [
+      {
+        "type": "replication:earth",
+        "amount": 12
+      }
+    ]
+  }

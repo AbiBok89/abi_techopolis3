@@ -1,0 +1,12 @@
+{
+  "id": "data_models",
+  "name": {
+    "translate": "collapsible_groups.group.data_models",
+    "fallback": "Data Models"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "hostilenetworks:data_model"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "techopolis:block/immersive_multiblock_controller_front",
+    "side": "techopolis:block/immersive_multiblock_controller_front",
+    "top": "techopolis:block/immersive_multiblock_controller_top"
+  }
+}

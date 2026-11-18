@@ -1,0 +1,24 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "item": "techopolis:elite_technium_nugget"
+    }
+  ],
+  "energy": 3200,
+  "input": {
+    "basePredicate": {
+      "tag": "c:crystals"
+    },
+    "count": 4
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "techopolis:uranium_dust"
+      },
+      "count": 4
+    }
+  ],
+  "time": 100
+}

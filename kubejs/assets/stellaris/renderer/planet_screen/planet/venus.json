@@ -1,0 +1,12 @@
+{
+  "texture": "stellaris:textures/environment/solar_system/venus.png",
+  "name": "Venus",
+  "distance": 68,
+  "period": 5000,
+  "width": 8.0,
+  "height": 8.0,
+  "parent": "stellaris:sun",
+  "dimensionId": "stellaris:venus",
+  "translatable": "text.stellaris.planetscreen.venus",
+  "id": "stellaris:venus"
+}

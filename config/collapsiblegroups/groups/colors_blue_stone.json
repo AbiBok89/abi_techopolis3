@@ -1,0 +1,192 @@
+{
+  "id": "contained_colors_blue_stone_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_blue_stone_copy",
+    "fallback": "Colors: Blue Stone "
+  },
+  "enabled": true,
+  "icon": [
+    "colors:blue_stone",
+    "colors:blue_asteroid"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_stone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_braid"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_polished"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_tile"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_prismarine"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_dark_prismarine"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_cracked_stone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_brick"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_cobblestone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_marble"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_chaotic"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_mosaic"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_triple"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_encased"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_road"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "blue_asteroid"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

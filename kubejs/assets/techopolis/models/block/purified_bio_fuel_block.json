@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "techopolis:block/purified_bio_fuel_block_top",
+    "bottom": "techopolis:block/purified_bio_fuel_block_bottom",
+    "side": "techopolis:block/purified_bio_fuel_block_side"
+  }
+}

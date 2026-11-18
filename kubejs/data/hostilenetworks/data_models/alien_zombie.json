@@ -1,0 +1,23 @@
+{
+    "entity": "stellaris:alien_zombie",
+    "variants": [],
+    "name": {
+        "translate": "entity.stellaris.alien_zombie",
+        "color": "#3B622F"
+    },
+    "display": {},
+    "sim_cost": 1024,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "techopolis:alien_prediction"
+    },
+    "trivia": "techopolis.trivia.alien_zombie",
+    "fabricator_drops": [
+        {
+            "id": "stellaris:moon_fruit",
+            "count": 8
+        }
+    ]
+}

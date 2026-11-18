@@ -1,0 +1,12 @@
+#BBL Compat Startup Config
+["BBL Compat"]
+	#Enables the in world conversion of caveopolis to colors blocks, will increase load times and may cause lag
+	"Caveopolis to Colors World Conversion" = false
+	#When enables all ores will be removed from world generation, only triggers during new chunk generation
+	"Disable Ore Gen" = false
+	#The block tag used to determine which blocks to replace when ore removal is enabled
+	"Block Tag for Ore Removal" = "c:ores"
+	#A list of block replacements in the format 'block_to_replace, replacement_block'. E.g minecraft:iron_ore=minecraft:stone
+	"Block Replacements" = ["modular_machinery_reborn:casing_plain=techopolis:wooden_scaffolding", "modular_machinery_reborn:casing_circuitry=techopolis:multiblock_circuitry", "modular_machinery_reborn:casing_gearbox=techopolis:multiblock_gearbox", "modular_machinery_reborn:casing_reinforced=techopolis:multiblock_machine_casing", "modular_machinery_reborn:casing_vent=techopolis:multiblock_vent", "modular_machinery_reborn:dimensional_detector=techopolis:dimensional_detector"]
+	#Enables block replacements defined in the block replacements list
+	"Enable Block Replacements" = false

@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+      "item": "techopolis:pure_quantum_matter"
+    },
+    "matter": [
+      {
+        "type": "replication:quantum",
+        "amount": 12
+      }
+    ]
+  }

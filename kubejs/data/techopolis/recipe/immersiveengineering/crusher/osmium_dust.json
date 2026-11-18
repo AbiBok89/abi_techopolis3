@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "item": "alltheores:dirty_osmium_dust"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "techopolis:osmium_dust"
+    },
+    "count": 1
+  }
+}

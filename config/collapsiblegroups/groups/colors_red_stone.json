@@ -1,0 +1,188 @@
+{
+  "id": "contained_colors_red_stone_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_red_stone_copy",
+    "fallback": "Colors: Red Stone "
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_stone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_braid"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_polished"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_tile"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_prismarine"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_dark_prismarine"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_cracked_stone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_brick"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_cobblestone"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_marble"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_chaotic"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_mosaic"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_triple"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_encased"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_road"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "red_asteroid"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

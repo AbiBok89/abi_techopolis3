@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "techopolis:item/elite_technium_machine_placer"
+  }
+}

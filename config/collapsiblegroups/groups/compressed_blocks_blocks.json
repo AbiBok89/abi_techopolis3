@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "compressed_blocks_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.compressed_blocks_blocks",
+    "fallback": "Compressed Blocks: Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x01"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x02"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x03"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x04"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x05"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x06"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x07"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x08"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x09"
+      },
+      {
+        "type": "item",
+        "tag": "compressedblocks:compression_x10"
+      }
+    ]
+  }
+}

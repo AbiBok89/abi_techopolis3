@@ -1,0 +1,38 @@
+{
+  "id": "contained_colors_pink_bamboo_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_pink_bamboo_copy",
+    "fallback": "Colors: Pink Bamboo"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:pink_stripped_bamboo",
+    "colors:pink_bamboo_planks"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "pink_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "pink_stripped_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

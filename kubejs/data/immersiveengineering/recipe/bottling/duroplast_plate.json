@@ -1,0 +1,18 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": {
+    "amount": 250,
+    "tag": "c:phenolic_resin"
+  },
+  "input": {
+    "item": "casting:plate_mold"
+  },
+  "results": [
+    {
+      "item": "immersiveengineering:plate_duroplast"
+    },
+    {
+      "item": "casting:plate_mold"
+    }
+  ]
+}

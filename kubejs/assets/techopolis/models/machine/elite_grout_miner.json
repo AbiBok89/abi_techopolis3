@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "techopolis:block/elite_grout_miner_front",
+    "side": "techopolis:block/grout_miner_side",
+    "top": "techopolis:block/grout_miner_top"
+  }
+}

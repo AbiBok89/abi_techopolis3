@@ -1,0 +1,71 @@
+{
+  "id": "contained_colors_lime_wood_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_lime_wood_copy",
+    "fallback": "Colors: Lime Wood"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:lime_planks",
+    "colors:lime_log"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_plank"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_stripped_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "lime_stripped_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

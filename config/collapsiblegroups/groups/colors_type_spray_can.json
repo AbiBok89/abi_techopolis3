@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_spray_can_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_spray_can_copy",
+    "fallback": "Colors: Spray Cans"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "spray_can"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

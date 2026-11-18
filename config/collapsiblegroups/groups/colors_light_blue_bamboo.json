@@ -1,0 +1,38 @@
+{
+  "id": "contained_colors_light_blue_bamboo_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_light_blue_bamboo_copy",
+    "fallback": "Colors: Light Blue Bamboo"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:light_blue_stripped_bamboo",
+    "colors:light_blue_bamboo_planks"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "light_blue_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "light_blue_stripped_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

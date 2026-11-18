@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "energy": 1600,
+  "additives": [],
+  "input": {
+    "basePredicate": {
+      "tag": "techopolis:coal_to_graphite_blocks"
+    },
+    "count": 1
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "bigreactors:graphite_block"
+      },
+      "count": 1
+    }
+  ],
+  "time": 80
+}

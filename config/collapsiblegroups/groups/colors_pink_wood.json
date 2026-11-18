@@ -1,0 +1,71 @@
+{
+  "id": "contained_colors_pink_wood_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_pink_wood_copy",
+    "fallback": "Colors: Pink Wood"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:pink_planks",
+    "colors:pink_log"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "pink_plank"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "pink_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "pink_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "pink_stripped_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "pink_stripped_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

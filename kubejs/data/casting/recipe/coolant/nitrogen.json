@@ -1,0 +1,8 @@
+{
+  "type": "casting:coolant",
+  "duration": 10,
+  "fluid": {
+    "amount": 25,
+    "id": "techopolis:liquid_nitrogen"
+  }
+}

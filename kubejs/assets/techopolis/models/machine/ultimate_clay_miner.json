@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "techopolis:block/ultimate_clay_miner_front",
+    "side": "techopolis:block/clay_miner_side",
+    "top": "techopolis:block/clay_miner_top"
+  }
+}

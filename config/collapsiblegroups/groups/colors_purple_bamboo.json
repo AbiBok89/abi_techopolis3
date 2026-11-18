@@ -1,0 +1,38 @@
+{
+  "id": "contained_colors_purple_bamboo_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_purple_bamboo_copy",
+    "fallback": "Colors: Purple Bamboo"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:purple_stripped_bamboo",
+    "colors:purple_bamboo_planks"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "purple_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "purple_stripped_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "contained_colors_white_bamboo_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_white_bamboo_copy",
+    "fallback": "Colors: White Bamboo"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:white_stripped_bamboo",
+    "colors:white_bamboo_planks"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "white_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "white_stripped_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

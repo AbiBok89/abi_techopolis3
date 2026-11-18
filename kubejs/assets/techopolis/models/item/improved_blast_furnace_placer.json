@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "techopolis:item/improved_blast_furnace_placer"
+  }
+}

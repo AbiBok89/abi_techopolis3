@@ -1,0 +1,27 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "actuallyadditions:black_quartz"
+    }
+  ],
+  "energy": 3200,
+  "input": {
+    "basePredicate": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "count": 1
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "ae2:fluix_crystal"
+      },
+      "count": 2
+    }
+  ],
+  "time": 100
+}

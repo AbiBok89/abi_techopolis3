@@ -1,0 +1,30 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "rftoolsbase:manual": {
+      "viewedEntries": [
+        "rftoolsbase:basics/modules",
+        "rftoolsbase:basics/machine_frames",
+        "rftoolsbase:basics/machine_bases",
+        "rftoolsbase:basics/dimensional_shards",
+        "rftoolsbase:basics/bugs",
+        "rftoolsbase:tools/craftingcard",
+        "rftoolsbase:tools/smartwrench",
+        "rftoolsbase:tools/tablet",
+        "rftoolsbase:tools/filtermodule",
+        "rftoolsbase:machines/infusing",
+        "rftoolsbase:machines/information_screen"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "actuallyadditions:booklet": {
+      "viewedEntries": [
+        "actuallyadditions:intro"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

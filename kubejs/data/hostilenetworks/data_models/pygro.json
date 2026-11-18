@@ -1,0 +1,23 @@
+{
+    "entity": "stellaris:pygro",
+    "variants": [],
+    "name": {
+        "translate": "entity.stellaris.pygro",
+        "color": "#969363"
+    },
+    "display": {},
+    "sim_cost": 1024,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "techopolis:alien_prediction"
+    },
+    "trivia": "techopolis.trivia.pygro",
+    "fabricator_drops": [
+        {
+            "id": "techopolis:pygro_nugget",
+            "count": 3
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": {
+    "text": {
+      "translate": "Basic Research Crafter"
+    }
+  },
+  "appearance": {
+    "custommachinery:block": "techopolis:machine/research_crafter",
+    "custommachinery:hardness": 1.5,
+    "custommachinery:mining_level": "minecraft:needs_stone_tool",
+    "custommachinery:requires_tool": false,
+    "custommachinery:resistance": 6.0
+  },
+  "components": [
+    {
+      "type": "custommachinery:fluid",
+      "mode": "input",
+      "id": "input_fluid",
+      "capacity": 10000
+    },
+    {
+      "type": "custommachinery:item",
+      "whitelist": "#techopolis:blueprints",
+      "id": "blueprint",
+      "mode": "input"
+    },
+    {
+      "type": "custommachinery:item",
+      "blacklist": "#techopolis:blueprints",
+      "id": "input_item",
+      "mode": "input"
+    },
+    {
+      "type": "custommachinery:item",
+      "id": "output_item",
+      "mode": "output",
+      "max_input": 0
+    }
+  ],
+  "gui": [
+    {
+      "type": "custommachinery:config",
+      "x": 196,
+      "y": 63,
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "custommachinery:fluid",
+      "id": "input_fluid",
+      "x": 48,
+      "y": 24
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 48,
+      "y": 82
+    },
+    {
+      "type": "custommachinery:progress",
+      "x": 154,
+      "y": 36
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "blueprint",
+      "x": 105,
+      "y": 36,
+      "ghost": {
+        "items": {
+          "item": "techopolis:compressed_furnace_blueprint"
+        },
+        "color": {
+          "alpha": 0.14901961
+        }
+      }
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input_item",
+      "x": 126,
+      "y": 36
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "output_item",
+      "x": 190,
+      "y": 35
+    },
+    {
+      "type": "custommachinery:status",
+      "x": 196,
+      "y": 3
+    },
+    {
+      "type": "custommachinery:text",
+      "priority": 1,
+      "x": 47,
+      "y": 5,
+      "text": {
+        "text": {
+          "translate": "Research Crafter"
+        }
+      }
+    },
+    {
+      "type": "custommachinery:text",
+      "x": 47,
+      "y": 5,
+      "text": {
+        "text": {
+          "translate": "Basic Research Crafter"
+        }
+      }
+    },
+    {
+      "type": "custommachinery:texture",
+      "priority": 1,
+      "texture": {
+        "texture": "techopolis:textures/gui/fluid_injector_background.png"
+      },
+      "x": 41,
+      "y": 0
+    }
+  ]
+}

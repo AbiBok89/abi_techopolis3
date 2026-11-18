@@ -1,0 +1,13 @@
+{
+    "probejs.modHash": -7922204122183745736,
+    "probejs.registryHash": -650586152796586865,
+    "probejs.enabled": false,
+    "probejs.newGame": false,
+    "probejs.hintsForLLM": true,
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge"
+    ],
+    "probejs.reset": false
+}

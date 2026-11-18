@@ -1,0 +1,56 @@
+{
+    "Enabled": true,
+    "TurbineCoils": {
+        "WipeExistingValuesBeforeAdding": true,
+        "Add": [
+            {
+                "BlockTagId": "techopolis:coils/basic_technium",
+                "Efficiency": 2.0,
+                "Bonus": 1.0,
+                "ExtractionRate": 1.0
+            },
+            {
+                "BlockTagId": "techopolis:coils/advanced_technium",
+                "Efficiency": 3.0,
+                "Bonus": 1.1,
+                "ExtractionRate": 1.5
+            },
+            {
+                "BlockTagId": "techopolis:coils/elite_technium",
+                "Efficiency": 4.0,
+                "Bonus": 1.2,
+                "ExtractionRate": 2.0
+            },
+            {
+                "BlockTagId": "techopolis:coils/ultimate_technium",
+                "Efficiency": 5.0,
+                "Bonus": 1.3,
+                "ExtractionRate": 3.0
+            },
+            {
+                "BlockTagId": "techopolis:coils/hellish_technium",
+                "Efficiency": 6.0,
+                "Bonus": 1.4,
+                "ExtractionRate": 4.0
+            },
+            {
+                "BlockTagId": "techopolis:coils/lunar_technium",
+                "Efficiency": 7.0,
+                "Bonus": 1.5,
+                "ExtractionRate": 5.0
+            },
+            {
+                "BlockTagId": "techopolis:coils/end_technium",
+                "Efficiency": 8.0,
+                "Bonus": 1.6,
+                "ExtractionRate": 6.0
+            },
+            {
+                "BlockTagId": "techopolis:coils/final_technium",
+                "Efficiency": 9.0,
+                "Bonus": 2.0,
+                "ExtractionRate": 7.0
+            }
+        ]
+    }
+}

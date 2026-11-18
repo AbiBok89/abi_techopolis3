@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:squeezer",
+  "energy": 19200,
+  "input": {
+    "basePredicate": {
+      "tag": "techopolis:raw_hop_graphite_dust"
+    },
+    "count": 8
+  },
+  "result": {
+    "tag": "c:dusts/hop_graphite"
+  }
+}

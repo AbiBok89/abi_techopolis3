@@ -1,0 +1,27 @@
+{
+    "neoforge:conditions": [
+      {
+        "type": "bblcore:world_type_condition",
+        "world_type": "minecraft:flat"
+      }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "S": {
+        "item": "minecraft:cobblestone"
+      },
+      "C": {
+        "item": "compressedblocks:c0_cobblestone"
+      }
+    },
+    "pattern": [
+      "SSS",
+      "S S",
+      "SCS"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:furnace"
+    }
+  }

@@ -1,0 +1,19 @@
+{
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "item": "ae2:calculation_processor"
+    },
+    "middle": {
+      "item": "techopolis:multiblock_machine_casing"
+    },
+    "top": {
+      "item": "ae2:calculation_processor"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "count": 1,
+    "id": "techopolis:multiblock_circuitry"
+  }
+}

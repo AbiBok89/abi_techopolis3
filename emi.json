@@ -1,0 +1,1050 @@
+{
+  "favorites": [
+    {
+      "stack": "item:techopolis:compactor",
+      "recipe": "techopolis:compator"
+    },
+    {
+      "stack": "item:actuallyadditions:canola_press",
+      "recipe": "actuallyadditions:canola_press"
+    },
+    {
+      "stack": "item:actuallyadditions:fermenting_barrel",
+      "recipe": "actuallyadditions:fermenting_barrel"
+    },
+    {
+      "stack": "item:xnet:controller",
+      "recipe": "xnet:controller"
+    },
+    {
+      "stack": "item:immersiveengineering:fluid_pump",
+      "recipe": "immersiveengineering:crafting/fluid_pump"
+    },
+    {
+      "stack": "item:actuallyadditions:oil_generator",
+      "recipe": "actuallyadditions:oil_generator"
+    },
+    {
+      "stack": "item:actuallyadditions:atomic_reconstructor",
+      "recipe": "actuallyadditions:atomic_reconstructor"
+    },
+    {
+      "stack": "item:actuallyadditions:void_crystal"
+    },
+    {
+      "stack": "item:actuallyadditions:travelers_sack",
+      "recipe": "actuallyadditions:travelers_sack"
+    },
+    {
+      "stack": "item:mekanism:basic_chemical_tank",
+      "recipe": "mekanism:chemical_tank/basic"
+    },
+    {
+      "stack": "item:techopolis:freezer",
+      "recipe": "techopolis:freezer"
+    },
+    {
+      "stack": "item:techopolis:ambient_water_collector",
+      "recipe": "techopolis:ambient_water_collector"
+    },
+    {
+      "stack": "item:immersiveengineering:thermoelectric_generator",
+      "recipe": "immersiveengineering:crafting/thermoelectric_generator"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "alltheores:constantan_ingot",
+        "amount": 4
+      },
+      "recipe": "jei:/alltheores/alloysmelter/constantan/ingot"
+    },
+    {
+      "stack": "item:immersiveengineering:current_transformer",
+      "recipe": "immersiveengineering:crafting/current_transformer"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "techopolis:crushed_deepslate",
+        "amount": 64
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "immersiveengineering:wire_copper",
+        "amount": 2
+      },
+      "recipe": "jei:/immersiveengineering/metalpress/wire_copper"
+    },
+    {
+      "stack": "item:casting:wire_mold",
+      "recipe": "casting:wire_mold"
+    },
+    {
+      "stack": "item:actuallyadditions:powered_furnace",
+      "recipe": "actuallyadditions:powered_furnace"
+    },
+    {
+      "stack": "item:actuallyadditions:ring_of_magnetizing",
+      "recipe": "actuallyadditions:ring_of_magnetizing"
+    },
+    {
+      "stack": "item:techopolis:advanced_technium_machine",
+      "recipe": "techopolis:advanced_technium_machine_cm"
+    }
+  ],
+  "lookup_history": [
+    "item:techopolis:hellish_technium_machine",
+    "item:techopolis:hellish_technium_nugget",
+    "item:techopolis:hellish_technium_ingot",
+    "item:techopolis:basic_technium_machine_frame",
+    "item:techopolis:advanced_technium_machine",
+    "item:alltheores:steel_gear",
+    "item:actuallyadditions:ring",
+    "item:actuallyadditions:ring_of_magnetizing",
+    {
+      "type": "item",
+      "id": "minecraft:lapis_lazuli",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "actuallyadditions:palis_crystal",
+      "amount": 16
+    },
+    "item:techopolis:advanced_technium_ingot",
+    "item:actuallyadditions:restonia_crystal",
+    "item:actuallyadditions:enori_crystal",
+    "item:actuallyadditions:powered_furnace",
+    "item:actuallyadditions:drill_light_blue",
+    "item:actuallyadditions:drill_core",
+    "item:techopolis:elite_technium_ingot",
+    "item:techopolis:elite_technium_nugget",
+    "item:techopolis:elite_technium_machine_frame",
+    "item:immersiveengineering:wirecoil_copper",
+    "item:mekanism:basic_universal_cable",
+    "item:mekanism:basic_energy_cube",
+    "item:immersiveengineering:coil_lv",
+    "item:immersiveengineering:thermoelectric_generator",
+    "item:ae2:certus_quartz_dust",
+    "item:extendedae:quartz_blend",
+    {
+      "type": "item",
+      "id": "ae2:silicon",
+      "amount": 25
+    },
+    "item:casting:wire_mold",
+    {
+      "type": "item",
+      "id": "immersiveengineering:wire_copper",
+      "amount": 2
+    },
+    "#item:c:wires",
+    "item:minecraft:copper_ingot",
+    "#item:c:plates/constantan",
+    "item:techopolis:advanced_technium_machine_frame",
+    "#item:c:ingots/nickel",
+    {
+      "type": "item",
+      "id": "alltheores:constantan_ingot",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "techopolis:crushed_deepslate",
+      "amount": 64
+    },
+    {
+      "type": "fluid",
+      "id": "casting:chilled_water",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "casting:super_coolant",
+      "amount": 2000
+    },
+    {
+      "type": "fluid",
+      "id": "casting:iced_water",
+      "amount": 81000
+    },
+    {
+      "type": "item",
+      "id": "minecraft:blue_ice",
+      "amount": 26
+    },
+    "item:immersiveengineering:component_electronic",
+    "item:immersiveengineering:current_transformer",
+    "item:immersiveengineering:logic_unit",
+    "item:immersiveengineering:turret_gun",
+    "item:immersiveengineering:turret_chem",
+    "item:alltheores:constantan_dust",
+    "#item:c:dusts/constantan",
+    {
+      "type": "fluid",
+      "id": "casting:molten_constantan",
+      "amount": 90
+    },
+    "#item:c:ingots/constantan",
+    "item:alltheores:constantan_plate",
+    "item:techopolis:freezer",
+    "item:minecraft:packed_ice",
+    "item:minecraft:ice",
+    "item:techopolis:ambient_water_collector",
+    "item:techopolis:simple_machine_frame",
+    "item:techopolis:rock_washer",
+    "item:mekanism:basic_chemical_tank",
+    "item:actuallyadditions:travelers_sack",
+    "item:actuallyadditions:void_crystal",
+    "item:actuallyadditions:void_crystal_block",
+    "item:actuallyadditions:atomic_reconstructor",
+    "item:xnet:controller",
+    "#item:c:storage_blocks/lead",
+    "item:actuallyadditions:oil_generator",
+    "item:immersiveengineering:fluid_pump",
+    "item:actuallyadditions:fermenting_barrel",
+    {
+      "type": "item",
+      "id": "actuallyadditions:canola_seeds",
+      "amount": 17
+    },
+    "item:actuallyadditions:canola_press",
+    "item:alltheores:nickel_rod",
+    "item:alltheores:lead_ingot",
+    "item:techopolis:sturdy_machine_frame",
+    "item:techopolis:compactor",
+    "item:minecraft:bucket",
+    {
+      "type": "item",
+      "id": "techopolis:wooden_scaffolding",
+      "amount": 45
+    },
+    "item:immersiveengineering:waterwheel_segment",
+    "item:immersiveengineering:watermill",
+    "item:immersiveengineering:windmill",
+    "item:immersiveengineering:dynamo",
+    "item:immersiveengineering:component_iron",
+    {
+      "type": "item",
+      "id": "techopolis:elite_research",
+      "amount": 16
+    },
+    "item:techopolis:ender_storage_blueprint",
+    "item:techopolis:ender_teleportation_core",
+    "item:enderstorage:ender_chest",
+    {
+      "type": "item",
+      "id": "immersiveengineering:connector_hv_relay",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:slag_glass",
+      "amount": 9
+    },
+    "item:immersiveengineering:insulating_glass",
+    [
+      "item:immersiveengineering:insulating_glass",
+      "item:immersiveengineering:slag_glass"
+    ],
+    {
+      "type": "item",
+      "id": "techopolis:glass_shard",
+      "amount": 26
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:slag",
+      "amount": 36
+    },
+    "item:minecraft:obsidian",
+    {
+      "type": "fluid",
+      "id": "casting:molten_obsidian",
+      "amount": 1000
+    },
+    "item:techopolis:obsidian_blueprint",
+    "item:techopolis:alloy_kiln",
+    "item:techopolis:automatic_alloy_kiln_blueprint",
+    {
+      "type": "item",
+      "id": "immersiveengineering:alloybrick",
+      "amount": 64
+    },
+    "item:immersiveengineering:fluid_pipe",
+    "item:immersiveengineering:blastfurnace_preheater",
+    "item:immersiveengineering:furnace_heater",
+    "item:minecraft:deepslate",
+    "item:placers:crusher_placer",
+    "item:immersiveengineering:sheetmetal_iron",
+    "item:immersiveengineering:rs_engineering",
+    {
+      "type": "item",
+      "id": "immersiveengineering:blastbrick_reinforced",
+      "amount": 27
+    },
+    "item:placers:improved_blast_furnace_placer",
+    "item:minecraft:hopper",
+    "item:strainers:redstone_ore_piece",
+    "item:techopolis:drawer_core",
+    "item:techopolis:burnt_redstone",
+    {
+      "type": "item",
+      "id": "immersiveengineering:electron_tube",
+      "amount": 2
+    },
+    "item:immersiveengineering:component_electronic_adv",
+    "item:immersiveengineering:connector_lv",
+    "item:immersiveengineering:connector_lv_relay",
+    "item:placers:immersive_multiblock_controller",
+    {
+      "type": "fluid",
+      "id": "casting:molten_steel",
+      "amount": 90
+    },
+    "item:alltheores:steel_plate",
+    "#item:c:plates/steel",
+    {
+      "type": "fluid",
+      "id": "techopolis:chocolate",
+      "amount": 250
+    },
+    "fluid:minecraft:milk",
+    "item:techopolis:milker",
+    "item:sfm:tunnelled_manager",
+    "item:sfm:manager",
+    "item:alltheores:silver_plate",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "c:plates/silver",
+      "amount": 8
+    },
+    "item:routers:importer_block",
+    "item:immersiveengineering:wirecutter",
+    "item:casting:ingot_mold",
+    "item:alltheores:copper_plate",
+    "item:minecraft:oak_pressure_plate",
+    "#item:minecraft:wooden_pressure_plates",
+    "item:casting:plate_mold",
+    "item:alltheores:steel_ingot",
+    {
+      "type": "fluid",
+      "id": "casting:molten_copper",
+      "amount": 90
+    },
+    "item:techopolis:copper_dust",
+    "#item:c:dusts/copper",
+    {
+      "type": "item",
+      "id": "alltheores:salt",
+      "amount": 25
+    },
+    "item:alltheores:signalum_gear",
+    {
+      "type": "fluid",
+      "id": "casting:molten_signalum",
+      "amount": 90
+    },
+    "item:alltheores:signalum_ingot",
+    {
+      "type": "item",
+      "id": "alltheores:signalum_dust",
+      "amount": 4
+    },
+    {
+      "type": "fluid",
+      "id": "casting:molten_glass",
+      "amount": 500
+    },
+    {
+      "type": "item",
+      "id": "minecraft:sand",
+      "amount": 64
+    },
+    "#item:c:dusts",
+    "item:casting:dust_mold",
+    "item:alltheores:bronze_ingot",
+    "item:techopolis:tin_dust",
+    {
+      "type": "item",
+      "id": "alltheores:raw_tin",
+      "amount": 64
+    },
+    "item:alltheores:aluminum_gear",
+    "item:techopolis:research_crafter",
+    "item:minecraft:barrel",
+    {
+      "type": "item",
+      "id": "techopolis:grout",
+      "amount": 2
+    },
+    "item:immersiveengineering:blastbrick",
+    "item:techopolis:alloys_blueprint",
+    {
+      "type": "fluid",
+      "id": "casting:molten_aluminum",
+      "amount": 360
+    },
+    "item:minecraft:raw_iron",
+    {
+      "type": "item",
+      "id": "strainers:tin_ore_piece",
+      "amount": 9
+    },
+    "item:strainers:iron_ore_piece",
+    "item:mekanism:basic_fluid_tank",
+    "item:techopolis:iron_focus",
+    {
+      "type": "item",
+      "id": "minecraft:red_stained_glass",
+      "amount": 64
+    },
+    "item:techopolis:elite_research_crafter",
+    "item:techopolis:advanced_research_crafter",
+    "item:minecraft:green_dye",
+    {
+      "type": "item",
+      "id": "minecraft:green_stained_glass",
+      "amount": 24
+    },
+    "item:minecraft:black_dye",
+    {
+      "type": "item",
+      "id": "minecraft:black_stained_glass",
+      "amount": 24
+    },
+    "#item:c:dyes/red",
+    "item:strainers:strainer_tank",
+    {
+      "type": "item",
+      "id": "techopolis:rock_enricher",
+      "amount": 3
+    },
+    "item:techopolis:basic_technium_nugget",
+    {
+      "type": "item",
+      "id": "minecraft:feather",
+      "amount": 2
+    },
+    "item:techopolis:basic_miner",
+    "item:minecraft:granite",
+    "#item:minecraft:smelts_to_glass",
+    "#item:c:dusts/salt",
+    "item:minecraft:redstone",
+    "#item:c:dusts/redstone",
+    {
+      "type": "fluid",
+      "id": "casting:molten_redstone",
+      "amount": 1000
+    },
+    "item:casting:efficiency",
+    "item:casting:night_vision",
+    {
+      "type": "fluid",
+      "id": "casting:molten_gold",
+      "amount": 10
+    },
+    "item:minecraft:gold_nugget",
+    {
+      "type": "item",
+      "id": "minecraft:golden_carrot",
+      "amount": 8
+    },
+    "item:casting:equipment_level",
+    "item:casting:jets",
+    "item:casting:soulbound",
+    "item:casting:feather_falling",
+    "item:casting:lava_walker",
+    "item:casting:silk_touch",
+    "item:minecraft:iron_pickaxe",
+    "item:minecraft:diamond_pickaxe",
+    "item:minecraft:golden_pickaxe",
+    "item:mekanismtools:netherite_paxel",
+    "item:ae2:fluix_pickaxe",
+    "item:compressedblocks:c0_obsidian",
+    {
+      "type": "item",
+      "id": "techopolis:drawer_core_4",
+      "amount": 64
+    },
+    "item:torchmaster:feral_flare_lantern",
+    "item:minecraft:carrot",
+    "item:opolisutilities:summoning_block",
+    "item:minecraft:name_tag",
+    {
+      "type": "item",
+      "id": "minecraft:chest",
+      "amount": 57
+    },
+    "item:storagedrawers:controller",
+    "item:techopolis:summoning_block_blueprint",
+    {
+      "type": "item",
+      "id": "minecraft:white_stained_glass",
+      "amount": 8
+    },
+    "item:colors:orange_spray_can{\"minecraft:damage\":16}",
+    "item:minecraft:light_gray_dye",
+    {
+      "type": "item",
+      "id": "minecraft:light_gray_stained_glass",
+      "amount": 16
+    },
+    "item:techopolis:andesite_focus",
+    "item:techopolis:diorite_focus",
+    {
+      "type": "item",
+      "id": "minecraft:brown_dye",
+      "amount": 6
+    },
+    "item:colors:brown_spray_can",
+    "#item:c:dyes/brown",
+    {
+      "type": "item",
+      "id": "minecraft:brown_stained_glass",
+      "amount": 16
+    },
+    "item:techopolis:granite_focus",
+    {
+      "type": "item",
+      "id": "mekanism:dye_base",
+      "amount": 64
+    },
+    "item:flopper:flopper",
+    "item:techopolis:wooden_gear",
+    {
+      "type": "item",
+      "id": "techopolis:basic_technium_ingot",
+      "amount": 46
+    },
+    "item:minecraft:orange_dye",
+    "#item:c:dyes/orange",
+    {
+      "type": "item",
+      "id": "minecraft:orange_stained_glass",
+      "amount": 24
+    },
+    "item:techopolis:copper_focus",
+    "item:casting:mixer",
+    {
+      "type": "item",
+      "id": "minecraft:raw_copper",
+      "amount": 64
+    },
+    "item:casting:multiblock_mixer",
+    "item:minecraft:white_dye",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "c:dyes/white",
+      "amount": 8
+    },
+    "item:colors:white_spray_can",
+    {
+      "type": "item",
+      "id": "casting:rod_mold",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "casting:block_mold",
+      "amount": 4
+    },
+    "item:casting:controller{\"casting:fluids\":{fluids:[{},{},{},{}]}}",
+    {
+      "type": "item",
+      "id": "casting:tank",
+      "amount": 2
+    },
+    "item:casting:solidifier",
+    {
+      "type": "item",
+      "id": "mekanism:basic_logistical_transporter",
+      "amount": 6
+    },
+    "item:compressedblocks:c0_cobblestone",
+    "item:techopolis:stone_gear",
+    "item:strainers:copper_ore_piece",
+    {
+      "type": "item",
+      "id": "minecraft:stone",
+      "amount": 56
+    },
+    "item:minecraft:stone_pickaxe",
+    "item:techopolis:cobblestone_melter",
+    "item:storagedrawers:oak_full_drawers_1",
+    "item:minecraft:coal",
+    {
+      "type": "item",
+      "id": "opolisutilities:mini_coal",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "minecraft:glass",
+      "amount": 8
+    },
+    "item:minecraft:bricks",
+    {
+      "type": "item",
+      "id": "minecraft:clay",
+      "amount": 28
+    },
+    "item:compressedfurnace:double_compressed_furnace",
+    "item:techopolis:advanced_miner",
+    "item:techopolis:advanced_miners_blueprint",
+    "item:onlyhammersandexcavators:stone_hammer",
+    {
+      "type": "item",
+      "id": "minecraft:flint",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "casting:black_bricks",
+      "amount": 8
+    },
+    "item:cloche:no_other_drops_upgrade",
+    "item:cloche:no_seeds_upgrade",
+    "item:cloche:main_output_upgrade",
+    "item:bblcore:upgrade_base",
+    {
+      "type": "item",
+      "id": "immersiveengineering:hemp_fiber",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:hemp_fabric",
+      "amount": 4
+    },
+    "item:immersiveengineering:ersatz_leather",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "c:leathers",
+      "amount": 2
+    },
+    "item:minecraft:stone_axe{\"minecraft:damage\":128}",
+    "item:immersiveengineering:cokebrick",
+    {
+      "type": "item",
+      "id": "immersiveengineering:treated_wood_horizontal",
+      "amount": 4
+    },
+    {
+      "type": "fluid",
+      "id": "immersiveengineering:creosote",
+      "amount": 1000
+    },
+    "item:immersiveengineering:creosote_bucket",
+    {
+      "type": "item",
+      "id": "minecraft:cobblestone",
+      "amount": 64
+    },
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "immersiveengineering:treated_wood",
+      "amount": 16
+    },
+    "item:compressedblocks:c0_granite",
+    "item:mekanism:basic_mechanical_pipe",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "c:ingots/bronze",
+      "amount": 16
+    },
+    "item:techopolis:water_purifier",
+    "item:immersiveengineering:item_batcher",
+    "item:casting:equipment_modifier",
+    "item:immersiveengineering:fluid_sorter",
+    "item:mekanism:logistical_sorter",
+    "item:techopolis:drawer_controller_blueprint",
+    {
+      "type": "item",
+      "id": "minecraft:clay_ball",
+      "amount": 8
+    },
+    "item:techopolis:dye_base_blueprint",
+    "item:opolisutilities:resource_generator",
+    "item:casting:fluid_mover",
+    "item:casting:nugget_mold",
+    {
+      "type": "fluid",
+      "id": "strainers:purifying_water",
+      "amount": 500
+    },
+    "item:strainers:purifying_salt_mulch",
+    "item:strainers:mulch",
+    "item:immersiveengineering:sorter",
+    "item:brickfurnace:brick_furnace",
+    {
+      "type": "item",
+      "id": "minecraft:brick",
+      "amount": 24
+    },
+    "item:brickfurnace:brick_blast_furnace",
+    "item:ceramicbucket:unfired_clay_bucket",
+    "item:ceramicbucket:ceramic_bucket",
+    {
+      "type": "item",
+      "id": "minecraft:crafting_table",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "actuallyadditions:canola",
+      "amount": 5
+    },
+    "item:cloche:fixed_speed_upgrade_2",
+    "item:cloche:fixed_speed_upgrade_3",
+    "item:cloche:fixed_speed_upgrade_1",
+    {
+      "type": "item",
+      "id": "minecraft:red_dye",
+      "amount": 16
+    },
+    "item:techopolis:end_easter_egg",
+    "item:techopolis:lunar_easter_egg",
+    "item:techopolis:hellish_easter_egg",
+    "item:techopolis:ultimate_easter_egg",
+    "item:techopolis:elite_easter_egg",
+    "item:techopolis:advanced_easter_egg",
+    "item:techopolis:basic_easter_egg",
+    "item:techopolis:simple_easter_egg",
+    "item:techopolis:easter_egg_shell",
+    "item:minecraft:cocoa_beans",
+    {
+      "type": "item",
+      "id": "techopolis:basic_research",
+      "amount": 30
+    },
+    "item:minecraft:snowball",
+    {
+      "type": "item",
+      "id": "minecraft:snow_block",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "techopolis:advanced_research",
+      "amount": 16
+    },
+    "item:techopolis:drawer_compacting_blueprint",
+    "item:techopolis:compacting_core",
+    "item:techopolis:drawer_upgrades_blueprint",
+    "#item:c:dusts/tin",
+    "item:alltheores:bronze_dust",
+    "#item:c:dusts/bronze",
+    "item:rftoolsutility:crafter1",
+    "item:immersiveengineering:hammer",
+    "item:techopolis:basic_technium_machine_placer",
+    "item:techopolis:grout_miner",
+    "item:techopolis:alloy_kiln_placer",
+    "item:techopolis:gravel_miner",
+    "item:techopolis:sand_miner",
+    "item:bbllights:netherite_invisible_light_placer",
+    "item:bbllights:diamond_invisible_light_placer",
+    "item:bbllights:iron_invisible_light_placer",
+    "item:techopolis:drawers_blueprint",
+    "item:immersiveengineering:dust_coke",
+    {
+      "type": "item",
+      "id": "immersiveengineering:coal_coke",
+      "amount": 9
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:coke",
+      "amount": 17
+    },
+    "item:flightblocks:flight_block",
+    "item:casting:multiblock_regulator",
+    "item:techopolis:flight_block_blueprint",
+    {
+      "type": "item",
+      "id": "compressedblocks:c0_gravel",
+      "amount": 64
+    },
+    "item:casting:gem_mold",
+    {
+      "type": "item",
+      "id": "minecraft:coal_block",
+      "amount": 57
+    },
+    "item:casting:gear_mold",
+    "item:casting:multiblock_valve",
+    {
+      "type": "item",
+      "id": "casting:multiblock_solidifier",
+      "amount": 4
+    },
+    "item:casting:multiblock_coolant_tank",
+    "item:casting:multiblock_fuel_tank",
+    "item:casting:multiblock_controller",
+    "item:alltheores:copper_gear",
+    "item:cloche:cloche",
+    {
+      "type": "item",
+      "id": "minecraft:blast_furnace",
+      "amount": 4
+    },
+    "item:compressedfurnace:compressed_blast_furnace",
+    "item:minecraft:oak_planks",
+    "#item:minecraft:planks",
+    "item:minecraft:smooth_stone",
+    "fluid:minecraft:water",
+    "item:minecraft:stick",
+    "item:mekanism:formulaic_assemblicator",
+    "item:minecraft:dark_oak_wood"
+  ],
+  "craft_history": [
+    "techopolis:advanced_technium_machine_cm",
+    "techopolis:basic_technium_machine_frame",
+    "minecraft:iron_pickaxe",
+    "mekanism:transmitter/universal_cable/basic",
+    "immersiveengineering:crafting/thermoelectric_generator",
+    "immersiveengineering:crafting/coil_lv",
+    "immersiveengineering:crafting/wirecoil_copper",
+    "casting:wire_mold",
+    "immersiveengineering:crafting/wire_copper",
+    "techopolis:freezer",
+    "minecraft:redstone_torch",
+    "techopolis:ambient_water_collector",
+    "techopolis:simple_machine_frame",
+    "techopolis:rock_washer",
+    "actuallyadditions:travelers_sack",
+    "actuallyadditions:decompress/void_crystal",
+    "minecraft:stone_button",
+    "actuallyadditions:atomic_reconstructor",
+    "actuallyadditions:oil_generator",
+    "immersiveengineering:crafting/ingot_lead_to_storage_lead",
+    "immersiveengineering:crafting/fluid_pump",
+    "xnet:controller",
+    "actuallyadditions:fermenting_barrel",
+    "actuallyadditions:canola_press",
+    "techopolis:compator",
+    "techopolis:sturdy_machine_frame",
+    "minecraft:bucket",
+    "techopolis:wooden_scaffolding",
+    "immersiveengineering:crafting/watermill",
+    "immersiveengineering:crafting/storage_steel_to_ingot_steel",
+    "immersiveengineering:crafting/waterwheel_segment",
+    "immersiveengineering:crafting/stick_treated",
+    "immersiveengineering:crafting/dynamo",
+    "immersiveengineering:crafting/component_iron",
+    "immersiveengineering:crafting/blastbrick_reinforced",
+    "onlyhammersandexcavators:stone_hammer",
+    "placers:immersive_engineering/improved_blast_furnace_placer",
+    "utilitarian:utility/logs_to_hopper",
+    "storagedrawers:oak_full_drawers_1",
+    "minecraft:iron_block",
+    "immersiveengineering:crafting/connector_lv_relay",
+    "immersiveengineering:crafting/connector_lv",
+    "placers:immersive_engineering/controller",
+    "techopolis:skyblock/furnace",
+    "immersiveengineering:crafting/wirecutter",
+    "casting:ingot_mold_bricks",
+    "techopolis:plate_mold",
+    "utilitarian:utility/oak_logs_to_pressure_plates",
+    "mekanism:storage_blocks/bronze",
+    "alltheores:crafting/bronze/alloy_blending_from_dust",
+    "casting:dust_mold",
+    "techopolis:research_crafter",
+    "minecraft:barrel",
+    "techopolis:grout",
+    "techopolis:clay_ball",
+    "compressedblocks:shaped_c0_cobblestone",
+    "mekanism:fluid_tank/basic",
+    "utilitarian:utility/redying/green_stained_glass",
+    "techopolis:green_dye",
+    "techopolis:black_dye",
+    "minecraft:red_dye_from_poppy",
+    "techopolis:basic_technium_nugget",
+    "techopolis:basic_miner",
+    "minecraft:stone_pickaxe",
+    "storagedrawers:oak_full_drawers_4",
+    "minecraft:pumpkin_seeds",
+    "utilitarian:utility/logs_to_chests",
+    "utilitarian:utility/redying/brown_stained_glass",
+    "utilitarian:utility/redying/white_stained_glass",
+    "utilitarian:utility/redying/light_gray_stained_glass",
+    "utilitarian:utility/redying/orange_stained_glass",
+    "techopolis:light_gray_dye",
+    "minecraft:brown_dye",
+    "techopolis:white_dye",
+    "strainers:strainer_tank",
+    "flopper:flopper",
+    "techopolis:wooden_gear",
+    "techopolis:orange_dye",
+    "casting:rod_mold",
+    "casting:block_mold",
+    "casting:controller",
+    "casting:tank",
+    "casting:solidifier",
+    "mekanism:transmitter/logistical_transporter/basic",
+    "techopolis:stone_gear",
+    "techopolis:cobblestone_melter",
+    "opolisutilities:sticks",
+    "minecraft:oak_planks",
+    "minecraft:crafting_table",
+    "minecraft:oak_wood",
+    "cloche:no_other_drops_upgrade",
+    "cloche:no_seeds_upgrade",
+    "cloche:main_output_upgrade",
+    "bblcore:upgrade_base",
+    "minecraft:stone_axe",
+    "mekanism:transmitter/mechanical_pipe/basic",
+    "techopolis:builders_generator",
+    "casting:equipment_modifier",
+    "immersiveengineering:crafting/item_batcher",
+    "casting:fluid_mover",
+    "techopolis:nugget_mold",
+    "immersiveengineering:crafting/fluid_sorter",
+    "strainers:mulch",
+    "mekanism:logistical_sorter",
+    "mekanism:logistical_sorter",
+    "mekanism:logistical_sorter",
+    "mekanism:logistical_sorter",
+    "immersiveengineering:crafting/sorter",
+    "immersiveengineering:crafting/sorter",
+    "immersiveengineering:crafting/sorter",
+    "immersiveengineering:crafting/sorter",
+    "immersiveengineering:crafting/sorter",
+    "immersiveengineering:crafting/sorter",
+    "immersiveengineering:crafting/sorter",
+    "immersiveengineering:crafting/sorter",
+    "brickfurnace:brick_blast_furnace",
+    "brickfurnace:brick_blast_furnace",
+    "brickfurnace:brick_blast_furnace",
+    "brickfurnace:brick_blast_furnace",
+    "brickfurnace:brick_furnace",
+    "brickfurnace:brick_furnace",
+    "brickfurnace:brick_furnace",
+    "brickfurnace:brick_furnace",
+    "techopolis:water_purifier",
+    "storagedrawers:drawer_key",
+    "ceramicbucket:unfired_clay_bucket",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "cloche:fixed_speed_upgrade_3",
+    "cloche:fixed_speed_upgrade_3",
+    "cloche:fixed_speed_upgrade_3",
+    "cloche:fixed_speed_upgrade_3",
+    "cloche:fixed_speed_upgrade_3",
+    "cloche:fixed_speed_upgrade_3",
+    "cloche:fixed_speed_upgrade_3",
+    "cloche:fixed_speed_upgrade_3",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_2",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "cloche:fixed_speed_upgrade_1",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick",
+    "casting:multiblock_regulator",
+    "compressedblocks:shaped_c0_gravel",
+    "techopolis:raw_copper",
+    "casting:gem_mold_coals",
+    "opolisutilities:mini_coal",
+    "minecraft:coal",
+    "casting:gear_mold",
+    "compressedblocks:shaped_c0_stone",
+    "cloche:cloche",
+    "cloche:cloche",
+    "cloche:cloche",
+    "cloche:cloche",
+    "cloche:cloche",
+    "cloche:cloche",
+    "cloche:cloche",
+    "cloche:cloche",
+    "cloche:cloche"
+  ],
+  "recipe_defaults": {
+    "added": [
+      "mekanism:logistical_sorter",
+      "compressedblocks:shaped_c0_gravel",
+      "brickfurnace:brick_blast_furnace",
+      "techopolis:stone_gear",
+      "cloche:fixed_speed_upgrade_2",
+      "cloche:fixed_speed_upgrade_1",
+      "cloche:no_other_drops_upgrade",
+      "cloche:main_output_upgrade",
+      "bblcore:upgrade_base",
+      "cloche:cloche",
+      "flopper:flopper",
+      "techopolis:ambient_water_collector",
+      "jei:/techopolis/basic_technium_ingot_cm",
+      "immersiveengineering:crafting/sorter",
+      "cloche:no_seeds_upgrade",
+      "cloche:fixed_speed_upgrade_3",
+      "techopolis:sturdy_machine_frame",
+      "techopolis:basic_miner",
+      "techopolis:simple_machine_frame",
+      "minecraft:oak_planks",
+      "brickfurnace:brick_furnace",
+      "techopolis:raw_copper",
+      "minecraft:stick",
+      "onlyhammersandexcavators:stone_hammer",
+      "compressedblocks:shaped_c0_cobblestone",
+      "techopolis:wooden_gear"
+    ],
+    "tags": {},
+    "resolutions": {},
+    "disabled": [
+      "minecraft:smooth_stone",
+      "minecraft:stone"
+    ]
+  },
+  "hidden_stacks": []
+}

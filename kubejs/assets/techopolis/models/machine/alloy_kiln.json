@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "techopolis:block/alloy_kiln_machine_front",
+    "side": "techopolis:block/alloy_kiln_machine_side",
+    "top": "techopolis:block/alloy_kiln_machine_top"
+  }
+}

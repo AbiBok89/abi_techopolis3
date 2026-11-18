@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+      "item": "techopolis:pure_nether_matter"
+    },
+    "matter": [
+      {
+        "type": "replication:nether",
+        "amount": 12
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_leaves_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_leaves_copy",
+    "fallback": "Colors: Leaves"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "leaves"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

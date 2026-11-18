@@ -1,0 +1,23 @@
+{
+    "entity": "stellaris:star_crawler",
+    "variants": [],
+    "name": {
+        "translate": "entity.stellaris.star_crawler",
+        "color": "#405361"
+    },
+    "display": {},
+    "sim_cost": 2048,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "techopolis:alien_prediction"
+    },
+    "trivia": "techopolis.trivia.star_crawler",
+    "fabricator_drops": [
+        {
+            "id": "techopolis:shooting_star_piece",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:blast_furnace",
+    "input": {
+      "tag": "c:sands"
+    },
+    "result": {
+      "item": "mekanism:salt"
+    },
+    "slag": {
+      "item": "techopolis:glass_shard"
+    },
+    "time": 200
+  }

@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:mixer",
+  "energy": 800,
+  "fluid": {
+    "amount": 250,
+    "tag": "minecraft:milk"
+  },
+  "inputs": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "amount": 250,
+    "id": "techopolis:chocolate"
+  }
+}

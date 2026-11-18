@@ -1,0 +1,71 @@
+{
+  "id": "contained_colors_yellow_wood_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_yellow_wood_copy",
+    "fallback": "Colors: Yellow Wood "
+  },
+  "enabled": true,
+  "icon": [
+    "colors:yellow_planks",
+    "colors:yellow_log"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "yellow_plank"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "yellow_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "yellow_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "yellow_stripped_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "yellow_stripped_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "bblcore:world_type_condition",
+      "world_type": "hexlands:hexlands"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "compressedblocks:c0_cobblestone"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "C C",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:furnace"
+  }
+}

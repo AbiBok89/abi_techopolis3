@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "techopolis-3",
+  "name": "Techopolis 3",
+  "summary": "Индустриальный скайблок и глубокая автоматизация с Mekanism, AE2, Immersive Engineering и Extended Crafting.",
+  "description": "Индустриально-технологическая скайблок-сборка Techopolis 3. Версия сборки: 13.5 · Minecraft 1.21.1 (NeoForge 21.1.262 · Java 21).",
+  "cover": "ForLauncher/bg-techopolis3.jpg",
+  "version": "13.5",
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "neoforge",
+    "version": "21.1.262"
+  },
+  "recommendedMemoryMb": 8192,
+  "manifestUrl": "https://github.com/AbiBok89/abi_techopolis3/releases/download/v13.5/manifest.json",
+  "news": "ForLauncher/news.json"
+}

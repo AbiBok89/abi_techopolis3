@@ -1,0 +1,38 @@
+{
+  "id": "contained_colors_orange_bamboo_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_orange_bamboo_copy",
+    "fallback": "Colors: Orange Bamboo "
+  },
+  "enabled": true,
+  "icon": [
+    "colors:orange_stripped_bamboo",
+    "colors:orange_bamboo_planks"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "orange_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "orange_stripped_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_sapling_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_sapling_copy",
+    "fallback": "Colors: Saplings"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "sapling"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

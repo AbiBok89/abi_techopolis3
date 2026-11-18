@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "techopolis:block/end_technium_machine_front",
+    "side": "techopolis:block/end_technium_machine_side",
+    "top": "techopolis:block/end_technium_machine_top"
+  }
+}

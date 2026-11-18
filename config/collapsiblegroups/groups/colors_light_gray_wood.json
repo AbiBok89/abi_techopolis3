@@ -1,0 +1,71 @@
+{
+  "id": "contained_colors_light_gray_wood_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_light_gray_wood_copy",
+    "fallback": "Colors: Light Gray Wood"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:light_gray_planks",
+    "colors:light_gray_log"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "light_gray_plank"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "light_gray_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "light_gray_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "light_gray_stripped_log"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "light_gray_stripped_wood"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

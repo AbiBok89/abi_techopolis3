@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:fermenter",
+  "energy": 12800,
+  "fluid": {
+    "amount": 100,
+    "id": "techopolis:ender_ethanol"
+  },
+  "input": {
+    "item": "minecraft:chorus_fruit"
+  }
+}

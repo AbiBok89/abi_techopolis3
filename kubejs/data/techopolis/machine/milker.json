@@ -1,0 +1,75 @@
+{
+  "name": {
+    "text": {
+      "translate": "Milker"
+    }
+  },
+  "appearance": {
+    "custommachinery:block": "techopolis:machine/milker",
+    "custommachinery:hardness": 1.5,
+    "custommachinery:mining_level": "minecraft:needs_stone_tool",
+    "custommachinery:requires_tool": false,
+    "custommachinery:resistance": 6.0
+  },
+  "components": [
+    {
+      "type": "custommachinery:energy",
+      "capacity": 10000
+    },
+    {
+      "type": "custommachinery:fluid",
+      "mode": "output",
+      "id": "output_fluid",
+      "capacity": 10000
+    }
+  ],
+  "gui": [
+    {
+      "type": "custommachinery:config",
+      "x": 196,
+      "y": 63,
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "custommachinery:energy",
+      "x": 109,
+      "y": 28
+    },
+    {
+      "type": "custommachinery:fluid",
+      "id": "output_fluid",
+      "x": 131,
+      "y": 28
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 48,
+      "y": 82
+    },
+    {
+      "type": "custommachinery:status",
+      "x": 196,
+      "y": 3
+    },
+    {
+      "type": "custommachinery:text",
+      "x": 47,
+      "y": 5,
+      "text": {
+        "text": {
+          "translate": "Milker"
+        }
+      }
+    },
+    {
+      "type": "custommachinery:texture",
+      "priority": 1,
+      "texture": {
+        "texture": "techopolis:textures/gui/fluid_injector_background.png"
+      },
+      "x": 41,
+      "y": 0
+    }
+  ]
+}

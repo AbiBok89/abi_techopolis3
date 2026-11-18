@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:mixer",
+  "energy": 32000,
+  "fluid": {
+    "amount": 500,
+    "tag": "techopolis:ender_ethanol"
+  },
+  "inputs": [
+    {
+      "item": "techopolis:purified_bio_fuel"
+    },
+    {
+      "item": "bigreactors:anglesite_crystal"
+    }
+  ],
+  "result": {
+    "amount": 500,
+    "id": "techopolis:molten_ender_fuel"
+  }
+}

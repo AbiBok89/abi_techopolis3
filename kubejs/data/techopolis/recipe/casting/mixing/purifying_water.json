@@ -1,0 +1,17 @@
+{
+  "type": "casting:mixing",
+  "inputs": [
+    {
+      "amount": 100,
+      "id": "minecraft:water"
+    },
+    {
+      "amount": 10,
+      "id": "techopolis:hot_water"
+    }
+  ],
+  "output": {
+    "amount": 100,
+    "id": "strainers:purifying_water"
+  }
+}

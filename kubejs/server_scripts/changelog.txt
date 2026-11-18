@@ -1,0 +1,822 @@
+Techopolis 3
+
+// Template for changelog
+# Techopolis 3 
+
+### Changes
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Techopolis 3 13.5
+
+### Changes
+- Water Purifiers now produce more Purifying Water when using machine frames
+- Updated it's GuideME pages to reflect the changes
+- Updated few other GuideME pages
+- Added Obsidiglow Block 
+- Added Obsidiglow Block to Alloy Kiln recipes
+- Fixed Extreme Reactors Reactor max high not being 32 blocks
+- Reworked the Miners so that you can't place different tiers of miners on the same structure
+
+# Techopolis 3 13.4
+
+### Changes
+- Fixed Industrial Strainer not outputting the items
+
+# Techopolis 3 13.3
+
+### Changes
+- Updated mods and NeoForge
+- Downgraded Just Enough Mekanism Multiblocks to fix a crash with Mekanism: More Thermal Evaporation
+- Fixed Fluidizer not working with Ender Pearls
+
+# Techopolis 3 13.2
+
+### Changes
+- Updated mods
+- Compressed Furnace update fixed lava bucket automation
+
+# Techopolis 3 13.1
+
+### Changes
+- Removed new world save file
+
+# Techopolis 3 13.0
+
+### Changes
+- Fixed Dimensional Ore Extractor being able to have more than one controller
+- Added the ability to give the Fluid Injector a Machine Frame to increase the speed
+- Fixed the incorrect Ender Flask recipe
+- Removed Presser's recipes until the dupe bug is fixed
+
+# Techopolis 3 12.9
+
+### Changes
+- Update JEI to fix a crash
+
+# Techopolis 3 12.8
+
+### Changes
+- Fixed Inventory Connector not having recipe because the Inventory Trim was disabled
+- Changed the Moon Portal Frame so that it's not a valuable block which worth being farmed
+
+# Techopolis 3 12.7
+
+### Changes
+- Changed the Ultimine Blueprint to use the Dimensional Ore Extractor Mk2 instead of the Digital Miner so that it can actually be done in Elite Technium tier
+- Moved some quest around to reflect on the new stone gear recipe
+- Fixed duplicate recipe ID conflicts between wire and rod stamping
+- Fixed rod stamping recipes incorrectly needing a gear mold instead of a rod mold
+- Disabled Mekanism: More Thermal Evaporation Compact blocks
+
+# Techopolis 3 12.6
+
+### Changes
+- Added Mekanism: More Machines
+
+# Techopolis 3 12.5
+
+### Changes
+- Fix recipe conflict
+- Removed a few mods that are no longer needed
+
+# Techopolis 3 12.4
+
+### Changes
+- Quests are now FLEXIBLE not LINEAR, basically quest will complete even if you haven't unlocked them
+- Added Discord Rich Presence
+- Added Collapsible Groups mod to organize JEI bit with some custom groups
+- Fixed Generalized Predictions not being produced on successful simulation
+- Added a recipe to craft Calcite
+- Fixed Ender Storage not being able to make private with Elite Technium Nugget
+- Finished refactoring the crafting.js to be in their own files by mod
+- Added a recipe for the Pure Matter Mold and now that is used as catalyst for the Pure Matter recipes instead of Unstable Matter
+- Triple Compressed Furnace and Blast Furnace can now be broken with a stone tool
+
+# Techopolis 3 12.3
+
+## Changes
+- Updated NeoForge 21.1.235
+- Updated all mods to the latest versions
+- Fixed Data Model in the quests
+
+## Mods
+<!-- MODS_CHANGELOG -->
+
+# Techopolis 3 12.2
+
+## Changes
+- Updated NeoForge 21.1.234
+- Updated all mods to the latest versions
+- Removed the non Alloy Kiln check from the Alloy Kiln structure so now you can put 4 Alloy Kilns on one structure 
+- Added custom recipe ID generation to some Custom Machinery scripts to fix some items not showing because of the duplicate IDs
+- Added Hostile Neural Networks Data Center to the questline also changed the structure to only work with Crying Obsidian
+- The Hostile Neural Networks Simulation Chamber now has separate Training and Inference modes:
+- Training mode runs simulations that upgrade the model's data 
+- Inference mode produces predictions, but doesn't upgrade the model
+- Because of that change now you craft Superior Data Models from the start which need 256 data to be Self Aware except the Boss Data Models which needs 512 data to be Self Aware
+- Also now the Data Models uses the base accuracy of that tier for Superior that is 65%
+
+## Mods
+<!-- MODS_CHANGELOG -->
+
+
+# Techopolis 3 12.1
+
+## Changes
+- Updated all the mods to the latest versions
+- Exploit related to NBT Editing with FTBLib was fixed
+- Buffed the energy buffer of the Nuclear Reactor and Bio Generator
+- Rebalanced the Nuclear Reactor and now Machine Frames also multiply energy output like 1 Inanite with Lunar Technium Machine Frame makes 1.9M FE/t
+- Added Super Factory Manager
+- Added a tooltip warning to the Stellaris Rocket to use the Moon Portal instead
+
+
+## Mods
+<!-- MODS_CHANGELOG -->
+
+# Techopolis 3 12.0
+
+## Changes
+- Updated NeoForge 21.1.233
+- Updated all the mods to the latest versions
+- Now all leaves can be duplicated in the Cloche
+- Removed the KubeJS fix for Stellaris Moon gravity not resetting on respawn, this should be fixed now in the latest version of Stellaris
+- Added Ukrainian translation of quests thanks @dyadkovitalii
+- Added Multiblock Empowerer that can do all Empowerer recipes because of that Reaction Chamber can't be used to make those recipes anymore
+- Reaction Chamber now can make Empowered and Crystallized oil
+- Inscriber can also be used to make Crystallized Canola Seeds
+
+## Mods
+<!-- MODS_CHANGELOG -->
+
+# Techopolis 3 11.7
+
+## Changes
+- Updated NeoForge 21.1.230
+- Updated all the mods to the latest versions
+- Fixed Custom Machinery machines producing the wrong thing when leaving the game and joining back in
+- Added Replicator Motor to the quest
+- Dimensional Ore Extractor Placer now also works on the Mk2 version too
+
+## Mods
+<!-- MODS_CHANGELOG -->
+
+
+# Techopolis 3 11.6
+
+## Changes
+
+- Updated NeoForge 21.1.228
+- Updated all the mods to the latest versions
+- Changed Replication Max Recipe Depth to 8 for faster loading time
+- Added Mekanism: More Thermal Evaporation mod for more powerful Thermal Evaporation Plants
+
+## Mods
+<!-- MODS_CHANGELOG -->
+
+# Techopolis 3 11.5
+
+## Changes
+
+- Updated NeoForge 21.1.227
+- Updated all the mods to the latest versions 
+- Removed Mekanism Personal Chest from working with the Smart Crafting Table 
+- Updated Stellaris the Planet Chooser is still broken so you need to use the BBL Portal to get to the moon
+
+# 11.4
+
+**---Important---**
+- If you are updating from 9.0 or below your structures will be missing blocks please update to 10.2 before updating to this version and load all your base areas!
+
+**---Mods---**
+- Updated NeoForge 21.1.224
+- Updated mods 
+- Added Ender Storage - Energy
+
+**---Changes---**
+- Changed the Ender Storage - Energy Battery default recipe
+- Hidden unused Ore pieces
+- Added Block of Purified Bio Fuel
+
+# 11.3
+**---Important---**
+- If you are updating from 9.0 or below your structures will be missing blocks please update to 10.2 before updating to this version and load all your base areas!
+
+**---Mods---**
+- Updated mods 
+- Updated NeoForge 21.1.221
+
+**---Fixes---**
+- Added Space Cheese recipe to the AdvancedAE Reaction Chamber
+
+**---Changes---**
+- Whitelisted Technium Machine Fluid and Gas inputs so they only accept the one that is in the recipe
+
+# 11.2
+**---Important---**
+- If you are updating from 9.0 or below your structures will be missing blocks please update to 10.2 before updating to this version and load all your base areas!
+
+**---Mods---**
+- Updated mods 
+- Removed FTB Ultimine Addition
+
+**---Fixes---**
+- Fixed some quests dependencies
+
+**---Changes---**
+- Added 30-second grace timer so that you don't insta die as soon as you arrive to the Moon without Space Suit
+- Now you need to use the Ultimine Scroll to unlock being able to ultimine 64 blocks at once
+- The Cobblestone Melter now accepts Double Compressed Cobblestone
+- Processing times for the Cobblestone Melter recipes have also been adjusted.
+
+# 11.1
+**---Important---**
+- If you are updating from 9.0 or below your structures will be missing blocks please update to 10.2 before updating to this version and load all your base areas!
+
+**---Mods---**
+- Updated mods 
+- Updated NeoForge 21.1.219
+- Added Applied Construction Sticks
+- Added BBL Portals
+- Added AE2 Things
+
+**---Fixes---**
+- Fixed Wooden Scaffolding rendering
+- Fixed Diesel recipe
+- Fixed Copper Ingot replication value
+
+**---Changes---**
+- Changed to KubeJS In World Recipes for most In World Recipes JSON recipes which enables FTB Ultimine support for them
+- Disabled default Stellaris Rocket recipe
+- Made the Dimensional Ore Extractor Mk2 work with all the same type of ores not just different ones
+- Made the Ancient Infuser to be able to work on more than just one Debris all at once
+- Made the Item Recycler to be able to work on more items all at once
+- Added config button for all Custom Machinery machines
+- Disabled Casting recipes for Fluix Crystals
+- Added BBL Portals as a failsafe for people who have issue with Stellaris Planet Chooser screen
+- Boosted the Replicator Enclosure now it does give 100% Speed boost but going to use 250% more power
+
+# 11.0 
+**---Important---**
+- If you are updating from 9.0 and below your strucutres will be missing please update to 10.2 before updating to this version and load all your base areas!
+
+**---Mods---**
+- Updated mods 
+- Removed Modular Machinery 
+- Removed Athena 
+
+**---Chnages---**
+- Removed Modular Machinery to Techopolis recipes
+- Disabled BBL Compat block replacements
+
+# 10.2
+
+**---Mods---**
+- Updated mods 
+- Updated NeoForge 21.1.218
+
+**---Fixes---**
+- Placers now work for immersive structures blocks again
+- Fixed Interdimensional Infuser multiblock using planks instead of dimensional ore in its multiblock
+
+# 10.1
+
+**---Fixes---**
+- Construction Sticks giving too many from shop
+- Missing mulch block recipe
+
+# 10.0 (Though great care has been made to try and make the transition between 
+    Techopolis 3 and Techopolis 3.5 there may be issues please back up your world before updating)
+
+**---Known Issues---**
+- Wooden Scafolding looks odd in world 
+
+**---Mods---**
+- Updated Mods
+- Removed Modern Dynamics, this will remove machine extenders as well, suggestion to use routers for multiuse exporting and importing of multiple resource types
+- Added BBL Shops
+
+**---Fixes---**
+- Miner performance should be better
+- Uranium now has the correct replication values
+- Guide book now shows the correct strucutre for basic technium machine
+
+**---Changes---**
+- Added Techopolis Blocks to replace these in multiblocks
+- Added MMR to techopolis recipes (will be removed in the best update )
+- Replaced Tech Bucks with B Bucks from BBL Shops 
+- Alloy Kiln multiblock structure changed, like miners but with the 2 center blocks removed 
+- Removed Cloche Sapling recipe for colors (these are part of BBL Compat)
+- Removed Gas Injector, filling space suit now uses Stellaris 
+- Updated to KubeJS 7.2
+- Fixed duplicate recipe ids
+- Migrated to BBL Shops instead of the Opolis Utilities Catalog, Tech Bucks can be crafted into the new ones
+- Moved changelog to here instead of inside the guide book
+- Migrated Custom Machinery and Placers structures to use the new techopolis blocks not Modular Machinery
+- Enderman Prediction now creates 3 Ender Pearls 
+- Placers now visually show the multiblocks in JEI
+- Added rewards to the last couple of chapters 
+- Added infromation to each technium tier to indicate end of the pack fro each tier after 
+- Dimensional Ore Extractor no longer needs dimensional ore in the center of the strucutre, this is now inside the GUI itself 
+- Added Dimensional Ore Extractor Mk2, this allows for up to 3 dimensional ore to be obtained, uses same structure as the original dimensional ore extractor
+
+
+//Server remove extreme sound mufffler
+
+//Do To
+Add particle and sounds to modular machines
+    
+Research
+    Basic - Completed
+    Advanced - Completed 
+    Elite - Completed
+    Ultimate - (WIP) will there be an infinity booster card for AE2?, change antimatter recipes
+    Hellish -  hellish tecnhium, nether wart,
+    End
+    Final
+Mods To Implement
+    Compat machines (Out atr the moment may come back)
+
+//space Update
+    Final Technium used to make creative stuff ect
+
+
+BUILDING GADGETS 
+
+//Ender Update
+    End Technium End specific stuff
+
+Beta Preventing Bugs;
+- Modular Machinery sometimes consuming materials but not producing the item, seems to only effect technium (Issue know fix in works)
+- https://github.com/jaquadro/StorageDrawers/issues/1197 (issue know fix status unknown, temp fix good enough for release)
+- Skyblock builder release (Requires Curse forge update)
+- Custom Machinery Machines internal data is removed when being rotated, voids all incoming items from non vanilla soruces after this
+        (This is fixed but requires the mod updated on curseforge)
+
+Misc -
+    REMOVE ALL PLANETS
+    GAS RECIPES NOT SHOWING IN EMI
+
+**A17.0**
+Changelogs now exclusivly in guide book
+
+**A16.0**
+Updated Mods
+Updated Neo Forge to 21.1.117
+Fixed Changelog formating
+Removed Air upgrade opolis utilities 
+More quest inforamtion fixes
+Updated Skyblock Builder (templates now work)
+Rock Washer recipes now reset when they error
+Fixed colored fences not connecting to vanilla ones
+Removed Drawer Key research not needed
+Added Auth Me
+Guide Book now stays on the last opened page
+Done some small quest book visual updates 
+Added Slime Data Model
+Rice slime ball now banned
+Various data models outputs changed
+Added Extended Crafting (Mainly for the bigger crafting tables in space update)
+Banned stelaris steel ore?
+Fixed lag with tree harvesting on servers
+Added various other dust to gold dust recipes
+Actually additions in world oil upgrade recipes now show in EMI (via InWorldRecipes)
+**Nether Update A3.0**
+Removed Empowered Crystal recipes
+Added Magma Cube Data model
+Added Zombified Piglin Data model
+Added Ancient Quarry to obtain ancient debris
+Added Oil Pump, oil used in Hellish Technium recipe 
+**Space Update A1.0**
+Added Oxygen Injector replaces the horrible buggy version that stellais adds
+Banned a bunch of Extended Crafting materials and crafting tables
+Removed Basic, Elite, Advanced Crafting table recipe categories (extended crafting)
+Added heavy Duty Plating
+Added Canned Food, edible in space
+Removed Moon Ores
+
+**A15.0**
+Updated Mods
+Downgraded Fancy Menu (Issues on startup sometimes)
+Updated Yuki Textures
+Removed Haven Skyblock 
+Added Skyblock Builder
+Added LibX
+Moved Skyblock world type recipes to the new world type 
+Removed a bunch more ore to stuff recipes that are not intended /needed
+Laser questline renamed to deepslate as atmoic reconstructor is moved
+Fixed mini coal and charcoal not converting to coal/charcoal in compacting drawers
+Erroring Compactor recipes will now reset instead of getting stuck
+Immersive Steel Armor now banned
+Immersive Steel Tools now banned
+Stellaris Steel Tools now banned
+
+
+**A14.0**
+Updated Mods
+Removed Graphite block recipes from smelting and blasting
+Changed antiprotonic nucleosynthesizer recipe
+Fixed colored saplings not dropping (CAVEOPOIS UPDATE)
+Fixed more quest dependecy
+Added Freezer, freezes items
+Replaced blast bricks with snow blocks in advanced technium
+Double crusher added to banned list and recipes for using it disabled in JEI
+Changed tin focus recipe
+Changed granite focus recipe
+Changed copper ore piece recipe using the focus to use stone not cobblestone
+Sugar Cane and Cactus can now be obtained through strainer (All world types)
+Lens of the miner now banned, recipes disabled
+Removed Never Ending Coal Ore
+Data Models can no longer be created through right clicking a mob
+Fixed Zombie Data Model 
+Simulation quest line changed a lot, this includes new recipes and the removal of nether stuff this is now in the nether questline
+This also changes ultimate technium recipe removing soul sand and bone blocks replacing with compressed flesh blocks fluidizer casing
+Added vaious techopolis data models as part of the simulation changes
+Added simulation pearl made from enderman predictions
+Replica ore initial obtain method now longer uses raw replica, uses replica dust
+Removed Mob Infuser Data model recipes
+Fixed mod infuser structure missing a block
+Added Creeper data model
+Beacon removed from ultimate technium machine, replaced with reinforced casing
+Fixed speed curio blueprint recipes
+**Nether Update A2.0**
+Added Fluid Injector
+Added Liquid Nitrogen
+Added Dimensional Quartz Ore
+Nether Dimensional Ore Extractors strucutre contain 8 dimensional detectors on the corners, this is part of the multiblock
+Added Spent Nether Waste (gas)
+Added wither bone
+Completed first chapter of the nether
+Added Blazing Sawdust 
+Mostly added nether update questlines
+
+
+A13.0
+Updated Mods
+Remove color value on dimensional ores
+Ore blocks are now made from ore dust not raw materials, all missing ore block recipes now added
+    these recipe also use blank stone ore now
+Improved JEI for dimensional infuser
+Raw iron to raw gold changed to dusts
+Fixed item recycling recipe
+Added recipe for platinum ingots
+Arc furnace raw uranium recipe changed to dust
+Urnaium rod switched to platinum rod in ultimate technium recipe 
+Nether Update (A1.0)
+Added Hellish Technium parts
+Added Nether Portal Frame block
+Changed Nether portal frame blocks 
+Implemented Heat Curios for the nether 
+
+A12.0
+Updated Mods
+Updated Yuki Textures
+Reverted simple fluid input recipe
+Removed all uses for raw ores blocks, removed and banned
+Actually added Obsidiglow ingot recipe
+Reduce Elite Technium energy requirement fro 10000 rf to 2560(2 advanced energy inputs/ 1 elite)
+Added Iron Chests
+Ultimate Techium Questlines changed
+Added Nuclear Reactor 
+Added Reprocessor, remove Extreme Reactors Reprocessor
+Ultimate Technium recipe completely changed uses chemicals now
+Chemical buses renamed and amounts changed, these follow the same values fluids, other removed and added to banned list, recipes added
+Added Molten Mob Essence
+Added Cyanite Plate
+Removed uses for overworld and nether predictions these are only used to create mob essence
+Changed guide book opening command to `/guidemec techopolis:guide open` not sure if this works on servers may effect all players,
+    if so different fix is needed
+Fixed display of nether star recipe
+Added more stuff to guide book, most modular machinery multiblocks and other mod multiblocks that we are using are in the guide book now
+Hopefully this makes the first 4 tiers of technium somewhat complete
+
+A11.0
+Updated Mods
+Updated Yuki Textures
+Fixed more quests
+Remove soul sand recipe from laser
+Added Cyanite nugget recipe
+Fixed wither skeleton skull recipe
+FIxed logs being climabable
+Added Bigger Reactors research
+Added Ultimate research crafter research
+Added Ultimate miners research
+Fixed Elite Clay Miner recipe
+Added Infinity Cells Research 
+Fluix Recipe now uses black quartz 
+Black Quartz now obtained through dimensional infuser
+Nether Quartz now comes from enriching black quartz
+Added 4 grout to 1 black bricks recipe in compactor
+Added 1 clay to 1 bricks recipe in compactor
+Made Main Output, Speed 1, Speed 2 and Speed 3 cloche upgrades available earlier 
+Changed steel rod crrafting recipe to only give 1 rod
+Changed Oil Generator recipe
+Alloy kiln now faster (33%)
+Items in quests that are used for technium now have a subtitle in the quest
+Changed reinforced casing recipes, should be slightly easier 
+Added Pipe Connector
+Added Obsidiglow Ingot, alloy of refined glowstone and refined obsidian
+Added Dimensional Black Quartz Ore as well as the multiblocks, recipes and processing for it
+
+//Techopolis Changes
+Basic Recipe;
+    Removed Creosote
+    Removed Clay
+    Increased Treated Wood (12 from 8)
+    Added Copper Ingot (1)
+    Increased Flint (6 from 4)
+    Added Leathers (2)
+Advanced Recipe;
+    Removed Deepslate
+    Removed Power Requirement
+    Removed Void Crystals
+    Removed Steel Scafolding
+    Removed Lead rod
+    Added Crushed Deepslate(32)
+    Added Blast Bricks(8)
+    Added Palis Crystal(16)
+    Added Bronze Block
+    Added Nickel Rod
+Elite Recipe
+    Removed Gold Ingot
+    Removed Dimensional Dust
+    Added Gold gear
+    Increased Matter Ball (4 from 2)
+    Added Black Quartz Block(4)
+    Added Dimensional Ore(8 any)
+
+
+
+
+
+
+
+A10.1
+Fixed a bunch of quests missing stuff
+Disabled overlay again for fancy menu
+
+A10.0
+Added Oak Sapling recipe to super flat
+Clay uncrafting recipe now gives 4 clay back
+Added Sky Stone Recipe
+Skyblock issues on super flat (Not worried about this as probably switching mods)
+Tweaked FLuid collecting block recipes IE pump and mek pump
+Added Techopolis ender dust to ender_pearl dust tag
+Disabled Infinity cells for the moment
+Nerfed some hostile networks loot 
+Added Bio Generator recipe,  now auto output power into cables and machines
+Renamed Resource Generator to Builders Generator, re enabled with just caveopolis building blocks , quest added
+Changed dirt recipe to not need mulch
+Added osmium dust to lapis dust recipe
+Added nickel dust to glowstone dust recipe
+Added Curio Recipe
+Added Item Recycling, research, coupon
+Renamed B Bucks to Tech Bucks
+Updated B Bucks and Catalog textures to tech bucks designs
+Added Techopolis 3 Guide book contains a lot of additional information about techopolis, open guide in inventory gui
+
+A9.0
+Skyblock Mode now playable use world type skyblock
+Updated to Neo Forge 21.1.115
+Disabled FTB Chunks Mini Map
+Updated Textures thanks @Yuki
+Implemented Curios API into techopolis for custom curio items
+Added Hunger Curio, made with new advanced hunger research
+Added Curio item, base for all curio items that will be added
+Added Speed 1, Speed 2 and Speed 3 Curios at advanced, elite and ultimate research level
+Started on Ultimate Research (Not Yet Implemented)
+Added Haven Skyblock Builder, may change to MelanX Skyblock builder
+Added Forgiving Void
+Super Flat default now produces a world with 60 block deep dirt
+Stone axe change to axe in quests
+Wooden tools (not axe now banned)
+Added Resource Curio, this enables additional drops in sky and flat world types
+This removed the empty hand requirement to get resources and means tools can be used again to get these
+Added Lapis Recipe from lead
+Basic Technium Machine Multiblock now uses stone bricks not treated wood package (Avoids confusion in creating the multiblock)
+Removed Treated Wood Package Quest
+PENDING BUG Item Buses trigger right click on client side first instead of server side
+PENDING BUG Spelling mistake in translation
+XP no longer required when using waystones
+Scaffolding blocks now better for climbing (see BBL Core changes)
+Dimensional Infuser recipes power usage reduced to max of 1280RF per tick (advanced energy input level)
+    other recipes have in this have had there power adjusted 
+Ore Extractors have had there power usage reduced as well to a max of 1280 again to match the advanced energy input level
+    some recipes have had there time increased to adjust for this change
+Reduce research cost for ender and elevator blueprints
+Waystone warpstone is now an elite research
+Adjusted recipes for dimensional ore
+Technium Machines now reflect the controller colors on multiblock frames
+Advanced and Elite technium structures tweaked
+Crusher multiblock changed, no longer uses steel fences uses steel sheet metal
+    this allows for the dummy crusher to place the crusher better
+Crusher deepslate recipe now creates 3 crushed deepslate not 1, increase power
+Doubled fuel durations for the blast furnace
+This should make deepslate a lot easier and better to automate
+Added ExtendedAE
+Arc Furnace dummy machine now allows for any steel blocks not just immersive steel
+Re-added back coke coal dust recipe to Immersive Crusher and Mekanism Crusher
+Changed Crusher recipe (Mek)
+Added Bio Generator (Custom Machine, burns bio fuel for power)
+Quartz removed from elite technium replaced with mekansim lithium 
+Fluorite now obtainable
+Sulfur recipes removed and change to use thermal evaporation plant
+Dye base recipe now uses clay balls not dyes
+Clay blocks can now be crafted into clay balls
+Added elite miners and elite researcher
+Somewhat finalized elite technium chapters
+
+A8.0
+Tweaked starting quests, main quest line will assume normal/hexlands world types
+More tips added
+Removed Quartz In The Overworld Mod
+Bats no longer spawn
+Fluid Pipes can now be made from slag bricks
+Removed most uses for ores
+Change Teleportation core to use advanced technium nuggets in its recipe
+Added Dye Reseach allows for crafting of ore base used to make dyes, also allows for creation of spray cans 
+Added all remaining dimensional ore recipes and ore extractor recipes
+Gold progression is no longer making gold ore, iron ingots convert to gold in dim infuser
+Fixed dimensional ore extractors strucutre missing 2 pieces of glass
+Redstone processing now makes vanilla redstone not techopolis
+Added Arc Furnace to EMI
+New Elite Research for unbreakable electrodes
+Gamerule doInsomnia, and doPatrolSpawn now disabled
+Toms Storage research now uses a technium ingot 
+
+A7.0
+Updated Mods
+Updated Texture thanks @Yuki
+Fixed Advanced Miner Recipes (CHECK)
+Fixed Bronze Block recipe in alloying 
+Compressed furnaces itemhandler now working (Pipes work!)
+Added add immersive multiblock item into JEI, this fixes Immerisve Multiblock JEI mod
+Fixed gear recipe
+Added Iron, Nickel, Silver, Lead, Copper, Tin and Aluminum Focuses these replace the old focuses in ore piece recipes
+    these focuses are part of the rock enricher research
+Added missing compactor reciesp for ore pieces
+Added nickel ore piece to EMI
+Removed all IE crusher recipes and added them back reduces multiple recipes for the same resources
+All raw materials will create 1.33 of that resources dust
+Tweaked Laser questline to implement the new focuses adding single processing for lead and silver and adding nickel
+Nickel is now the material used to make enori crystals 
+Fixed advanced research crafter recipe
+Advanced Research Crafter is now its own block 
+Additional Grass block loot will only be obtained when using a empty hand
+Fixed casting coal dust recipes
+Removed Compact Machines
+Research, and research crafters now have better shift clicking
+Updated some quest texts
+Added Apple Skin
+Added in control
+Gamerule doMobSpawning no longer set to false on world gen, we are now using InControl to prevent hostile mob, in old world please set the commmand
+    `/gamerule doMobSpawning true` back to this. This also allows for passive mobs to spawn
+Removed Dark mode button from the main menu, tweaked position of the dark mode button to align better with emi overlay  
+Added Just Zoom 
+Added Curios API
+Added some new tips
+Summoning Block is now a basic research
+Hemp Fabric is now made in the compactor
+Ersatz Leather is now made in the compactor
+Ersatz Leather can now be used in any recipes that used exclusivly leather 
+Hemp can now be grown in the cloche
+Opolis Utilites and Immersive Cloches added to the banned list
+Removed all immersive cloche and opolisutilites cloche recipes
+Sapling grower recipe changed uses a single bone meal now
+World Specific quest are no checkboxes for the completionists out there
+Added some skyblock recipe for eventual skyblock mode (this will produce kubejs errors ignore it its fine)
+
+
+A6.0
+Join the patreon to play now! ⁠#support-us 
+Game no longer crashes when using keys in main menus and some other menus
+Compressed furnaces should now produce the correct amounts 
+Added Simple Backups
+Added Dark Mode Everywhere
+Added GuideME
+Fixed Modualar Machinery Fluid based recipes not working
+Fixed Fluid inputs and outputs being names wrong
+Changed Drawer Key Research to use drawer core instead of upgrade template
+Tweaked drawer key recipes to actually make them obtainable
+Fixed 2x2 drawers recipes using the wrong tag (fixes crafting recipes to use the drawer core 4)
+Disabled keep inventory of custom machines as the items are being lost when broken, now drop all containing items when broken
+Changed Heavy Engineering Block recipe to use basic technium not electrum
+Added all gears, plate and rod recipes to the metal press
+Fixed some osmium quests and recipes not working/not being present
+Glass Shards can now be melted into molten glass (500mb)
+Granite focus + cobblestone in a Rock Washer can now be used to make copper ore pieces like iron, aluminum and tin
+Mekanism power is now defaulted to RF 
+Renamed simple miners to basic miners
+Added Advanced Miners (same as basic but double the output)
+Research Crafter is now called Basic Research Crafter
+Added Advanced Research Crafter (reduces research crafting time by 25% eg 400 tick recipe becomes 300)
+Implemented Toms Research Correctly, including adding toms core, changing  research and chaning recipes
+Removed More Overlays 
+Added Lighty (fixes some log spam)
+Added FTB Ultimine and FTB Ultimine Addons
+The ability to ultimine is an elite research requiring a lot of resources to get 
+Elite reseach now requires 40 rf per tick to craft
+Fluid Recycling blue print uses creosote again
+Tech Tree questlines now dependent on the correct technium
+Quarry questline renamed to Dimensional Ores
+
+
+
+//WORLD PART 1
+Implemented BANNED IN LOOT TABLES effects 
+Nerfed Acutally Additions House
+Removed earth_operation_base structure
+
+A5.0
+Join the patreon to play now! ⁠#support-us 
+Water Purifier now extracts its made fluid
+Changed silver and lead dust to techopolis variants
+"Normal" modular machinery inputs/outputs actually removed from EMI
+Added additional plate mold recipe
+Alloy kiln bronze recipe now produces the correct amount, added storage block version of this recipe
+Alloy kiln can now take power instead of coal for its recipes
+Mekanism Salt Block remove and added to banned list
+Added blueprints now have a tag
+Updated mods
+**RESEARCH CHANGES**
+Basic research now only takes 200 ticks, each increasing tier increases research time by 200 ticks
+Completely reworked the research crafter, now requires a single item to either produce the item or another item which is used in craftiner
+eg storage drawer recipes now require different drawer cores, these are made in the research crafter
+Flight Blocks research materials changed to technium not feathers, recipe is now a basic technium machine frame
+Compressed Furnaces research now give you 3 compressed blast furnaces as well
+Blast brick now made from 2 casting black bricks in the research crafter
+Alloy brick now made from 2 grout blocks in the research crafter
+Alloy Kiln now made from 12 alloy kiln blocks in the research crafter
+Added manufactured osmium blueprint and recipe
+Research crafting times now different depending of the crafted item
+Added Ender and Elevator Teleportation Cores, used for elevators and ender chests recipes, ender chest recipes changed
+All these research changes are intended to make the auto crafting of certain resource and items that uses the research crafter more automatable
+This also makes the overall research system easier to expand
+
+
+A4.0
+Join the patreon to play now! ⁠#support-us 
+Updated Mods, includes caveopolis changes and strainers
+Added Machine Blueprint quest and recipe
+Added Fluid Recycling Research (advanced)
+Added Fluid Recycler
+Added Fluoc Recycling Coupon (unused at the moment)
+Added Ender Storage Research (elite), ender storage is now research, uses teleportation cores
+Added Elevator Research (elite), uses teleportation cores
+Custom Machines no longer allow imputing of items into the output slot via pipes
+Hidden the rest of Toms Storage in EMI
+    Reduced the amount of different inut and output blocks for modular machinery, now 5 of each type
+    The remaining block have had there names changed to Simple, Basic, Advanced, Elite, Ultimate, makes it easier to read
+    All these block have had the respected value Changed
+    All these blocks now have recipes
+    Simple versions of this block  (previously tiny) have had there recipes changed
+    Unused versions of these blocks are removed from EMI
+    Remove and replace all custom machinery inputs and outputs after updating, this shouldn't need to be done again as values are now final
+Removed duplicate all the ore recipe for bronze giving 8 ingots in the Alloy Smelter 
+Removed duplicate all the ore recipe for bronze giving 10 ingots in the Arc Furnace
+Removed duplicate all the ore recipe for steel giving 5 ingots in the Arc Furnace
+Removed Ender Quarry
+Added Water Purifier, turns water into purified water, 25mb per 100 ticks using 50 mb of water
+Fixed Tips not being loaded correctly, remove old ones and added some new ones let me know if you want me to add anymore
+Research is now tagged 
+Researcher now only allows research in the first slot, recipes positions moved to reflect this
+Storage research tweaked, now create storage cores which are then used in vanilla crafting to create the drawers replacing chests in storge drawers recipes
+Compacting recieps also reciving this change 
+These changes are in preparation for research craft adjustments 
+Added Compacting core, drawer core, drawer core 2 and drawer core 4
+Updated Yuki Textures
+'ceramicbucket:ceramic_bucket[bucketlib:fluid={amount=1000,id="strainers:eroding_water"}]'
+A3.0
+Added information quest about no ultimine
+Fixed spellings and wording of some quests
+Changed quests that contain world type specific recipes 
+Added Rock Enricher recipe
+Fixed raw uranium recipe
+Fixed Tiny item input quest
+Removed Mekanism Generators
+Reworked the Power Questline to replace boiler and turbine with actually additions canola
+Advanced Technium Machine and ingot recipe changed to use Actually Additions Resources
+Updated ore processing texture tints with @yuki suggestions
+Added @yuki textures to replace old techopolis textures and add some missing ones
+Techopolis Custom Machines now point to there own model files, these will change currently just mimics the block breaker
+Techopolis Modular Machines now point to there own model files, these will change currently just mimics the block placer just with missing textures
+    this wont effect all modular machines 
+Updated to Neoforge 21.1.96
+Additions
+    - Added Controlling (Keybind searching)
+    - Added Compressed Furnace, (Basic Research)
+
+
+A2.0
+Quest tweaks 
+Scaffolding now can be climbed 
+Added new mods
+Added Replica ore processing 
+Updated Mods
+Enabled Immersive Multiblocks
+Added some missing textures
+Tweaked blueprint and research textures
+Completed Ultimate Questline * 
+Added uranium and replica dimensional ore extractor stuff (Changed recipes as well)
+Updated Mods

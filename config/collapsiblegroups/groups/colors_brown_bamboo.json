@@ -1,0 +1,38 @@
+{
+  "id": "contained_colors_brown_bamboo_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_brown_bamboo_copy",
+    "fallback": "Colors: Brown Bamboo"
+  },
+  "enabled": true,
+  "icon": [
+    "colors:brown_stripped_bamboo",
+    "colors:brown_bamboo_mosaic"
+  ],
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "item_path_starts_with": "brown_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "item_path_starts_with": "brown_stripped_bamboo"
+          },
+          {
+            "type": "item",
+            "namespace": "colors"
+          }
+        ]
+      }
+    ]
+  }
+}

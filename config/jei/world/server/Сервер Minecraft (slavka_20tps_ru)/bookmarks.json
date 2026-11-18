@@ -1,0 +1,16 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"alltheores:iridium_gear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:end_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:end_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:phantom_membrane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"techopolis:lunar_technium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bigreactors:anglesite_crystal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extendedcrafting:ender_star_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"techopolis:shulker_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"techopolis:eye_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"techopolis:molten_ender_fuel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"techopolis:dragon_breath","type":"mekanism.api.chemical.ChemicalStack","bookmarkType":"INGREDIENT"},
+  {"recipe":"merequester:requester_terminal","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"merequester:requester","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

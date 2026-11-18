@@ -1,0 +1,19 @@
+{
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "bottom": {
+      "item": "mekanism:alloy_atomic"
+    },
+    "middle": {
+      "item": "mekanism:elite_control_circuit"
+    },
+    "top": {
+      "item": "mekanism:teleportation_core"
+    }
+  },
+  "mode": "press",
+  "result": {
+    "count": 1,
+    "id": "mekanism:ultimate_control_circuit"
+  }
+}

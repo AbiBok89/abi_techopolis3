@@ -1,0 +1,248 @@
+{
+  "name": {
+    "text": {
+      "translate": "Super Empowerer"
+    }
+  },
+  "appearance": {
+    "custommachinery:block": "techopolis:machine/super_empowerer",
+    "custommachinery:hardness": 1.5,
+    "custommachinery:mining_level": "minecraft:needs_stone_tool",
+    "custommachinery:requires_tool": false,
+    "custommachinery:resistance": 6.0
+  },
+  "components": [
+    {
+      "type": "custommachinery:energy",
+      "capacity": 500000
+    },
+    {
+      "type": "custommachinery:item",
+      "whitelist": [
+        "actuallyadditions:emeradic_crystal_block",
+        "actuallyadditions:enori_crystal_block",
+        "actuallyadditions:restonia_crystal_block",
+        "actuallyadditions:diamatine_crystal_block",
+        "actuallyadditions:void_crystal_block",
+        "actuallyadditions:palis_crystal_block",
+        "minecraft:gunpowder",
+        "minecraft:smithing_table",
+        "minecraft:slime_block",
+        "techopolis:lava_planks",
+        "techopolis:moon_curd",
+        "techopolis:cheesium_ingot",
+        "actuallyadditions:crystallized_canola_seed"
+      ],
+      "id": "input1",
+      "mode": "input",
+      "capacity": 1
+    },
+    {
+      "type": "custommachinery:item",
+      "whitelist": [
+        "#c:storage_blocks/uranium",
+        "#c:storage_blocks/iron",
+        "bigreactors:inanite_block",
+        "#c:storage_blocks/platinum",
+        "#c:storage_blocks/graphite",
+        "#c:storage_blocks/lead",
+        "techopolis:blazing_sawdust",
+        "minecraft:netherite_ingot",
+        "minecraft:blaze_powder",
+        "minecraft:blaze_rod",
+        "stellaris:moon_stone",
+        "techopolis:shooting_star_piece",
+        "actuallyadditions:canola_seeds"
+      ],
+      "id": "input2",
+      "mode": "input",
+      "capacity": 1
+    },
+    {
+      "type": "custommachinery:item",
+      "whitelist": [
+        "#c:storage_blocks/peridot",
+        "minecraft:quartz_block",
+        "#c:storage_blocks/ruby",
+        "#c:storage_blocks/certus_quartz",
+        "ae2:fluix_block",
+        "#c:storage_blocks/sapphire",
+        "techopolis:blazing_sawdust",
+        "minecraft:diamond",
+        "minecraft:blaze_powder",
+        "minecraft:magma_cream",
+        "stellaris:mercury_stone",
+        "techopolis:mogler_hide",
+        "actuallyadditions:canola_seeds"
+      ],
+      "id": "input3",
+      "mode": "input",
+      "capacity": 1
+    },
+    {
+      "type": "custommachinery:item",
+      "whitelist": [
+        "#c:storage_blocks/uranium",
+        "#c:storage_blocks/iron",
+        "bigreactors:inanite_block",
+        "#c:storage_blocks/platinum",
+        "#c:storage_blocks/graphite",
+        "#c:storage_blocks/lead",
+        "techopolis:blazing_sawdust",
+        "minecraft:netherite_ingot",
+        "minecraft:blaze_powder",
+        "minecraft:ghast_tear",
+        "stellaris:venus_stone",
+        "techopolis:martian_claw",
+        "actuallyadditions:canola_seeds"
+      ],
+      "id": "input4",
+      "mode": "input",
+      "capacity": 1
+    },
+    {
+      "type": "custommachinery:item",
+      "whitelist": [
+        "#c:storage_blocks/peridot",
+        "minecraft:quartz_block",
+        "#c:storage_blocks/ruby",
+        "#c:storage_blocks/certus_quartz",
+        "ae2:fluix_block",
+        "#c:storage_blocks/sapphire",
+        "techopolis:blazing_sawdust",
+        "minecraft:diamond",
+        "minecraft:blaze_powder",
+        "techopolis:wither_skeleton_bone",
+        "stellaris:mars_stone",
+        "techopolis:pygro_nugget",
+        "actuallyadditions:canola_seeds"
+      ],
+      "id": "input5",
+      "mode": "input",
+      "capacity": 1
+    },
+    {
+      "type": "custommachinery:item",
+      "id": "output",
+      "mode": "output",
+      "max_input": 0
+    },
+    {
+      "type": "custommachinery:item_upgrade",
+      "config": {
+        "TOP": "INPUT",
+        "BOTTOM": "INPUT",
+        "FRONT": "INPUT",
+        "RIGHT": "INPUT",
+        "BACK": "INPUT",
+        "LEFT": "INPUT"
+      },
+      "id": "upgrade",
+      "capacity": 1
+    }
+  ],
+  "gui": [
+    {
+      "type": "custommachinery:background",
+      "width": 256,
+      "height": 192
+    },
+    {
+      "type": "custommachinery:config",
+      "x": 235,
+      "y": 90,
+      "width": 15,
+      "height": 15
+    },
+    {
+      "type": "custommachinery:energy",
+      "x": 14,
+      "y": 26,
+      "height": 60
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 47,
+      "y": 108
+    },
+    {
+      "type": "custommachinery:progress",
+      "x": 130,
+      "y": 45
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input1",
+      "x": 72,
+      "y": 44
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input2",
+      "x": 72,
+      "y": 19
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input3",
+      "x": 97,
+      "y": 44
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input4",
+      "x": 72,
+      "y": 69
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input5",
+      "x": 47,
+      "y": 44
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "output",
+      "x": 173,
+      "y": 44
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "upgrade",
+      "x": 133,
+      "y": 69,
+      "ghost": {
+        "items": {
+          "item": "techopolis:basic_technium_machine_frame"
+        },
+        "color": {
+          "alpha": 0.29803923
+        }
+      }
+    },
+    {
+      "type": "custommachinery:status",
+      "x": 235,
+      "y": 5
+    },
+    {
+      "type": "custommachinery:text",
+      "x": 5,
+      "y": 5,
+      "text": {
+        "text": {
+          "translate": "Super Empowerer"
+        }
+      }
+    },
+    {
+      "type": "custommachinery:texture",
+      "priority": 1,
+      "texture": {
+        "texture": "custommachinery:textures/gui/base_background.png"
+      },
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

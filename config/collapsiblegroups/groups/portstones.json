@@ -1,0 +1,76 @@
+{
+  "id": "portstones",
+  "name": {
+    "translate": "collapsible_groups.group.portstones",
+    "fallback": "Portstones"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "waystones:white_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:orange_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:magenta_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:light_blue_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:yellow_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:lime_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:pink_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:gray_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:light_gray_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:cyan_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:purple_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:blue_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:brown_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:green_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:red_portstone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:black_portstone"
+      }
+    ]
+  }
+}

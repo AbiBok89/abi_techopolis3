@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+      "item": "techopolis:pure_precious_matter"
+    },
+    "matter": [
+      {
+        "type": "replication:precious",
+        "amount": 12
+      }
+    ]
+  }

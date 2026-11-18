@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "bblcore:world_type_condition",
+      "world_type": "skygrid_reloaded:skygrid"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "pattern": [
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "techopolis:resource_curio"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "entity": "stellaris:martian_raptor",
+    "variants": [],
+    "name": {
+        "translate": "entity.stellaris.martian_raptor",
+        "color": "#0f4a12"
+    },
+    "display": {},
+    "sim_cost": 1024,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "techopolis:alien_prediction"
+    },
+    "trivia": "techopolis.trivia.martian_raptor",
+    "fabricator_drops": [
+        {
+            "id": "techopolis:martian_claw",
+            "count": 3
+        }
+    ]
+}

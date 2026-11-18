@@ -1,0 +1,27 @@
+{
+    "entity": "minecraft:endermite",
+    "variants": [],
+    "name": {
+        "translate": "entity.minecraft.endermite",
+        "color": "#1D1626"
+    },
+    "display": {},
+    "sim_cost": 4096,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "hostilenetworks.trivia.phantom",
+    "fabricator_drops": [
+        {
+            "id": "opolisutilities:ender_pearl_fragment",
+            "count": 5
+        },
+        {
+            "id": "minecraft:chorus_flower",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_short_grass_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_short_grass_copy",
+    "fallback": "Colors: Short Grass"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "short_grass"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

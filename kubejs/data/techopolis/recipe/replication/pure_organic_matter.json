@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+      "item": "techopolis:pure_organic_matter"
+    },
+    "matter": [
+      {
+        "type": "replication:organic",
+        "amount": 12
+      }
+    ]
+  }

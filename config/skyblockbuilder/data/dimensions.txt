@@ -1,0 +1,13 @@
+minecraft:overworld
+stellaris:mercury
+minecraft:the_end
+stellaris:venus_orbit
+stellaris:earth_orbit
+stellaris:mercury_orbit
+stellaris:moon
+stellaris:venus
+minecraft:the_nether
+stellaris:mars_orbit
+stellaris:mars
+stellaris:jupiter
+ae2:spatial_storage

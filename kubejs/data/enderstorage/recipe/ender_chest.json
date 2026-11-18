@@ -1,0 +1,29 @@
+{
+  "type": "enderstorage:create_recipe",
+  "key": {
+    "B": {
+      "item": "techopolis:advanced_technium_nugget"
+    },
+    "C": {
+      "tag": "c:chests/wooden"
+    },
+    "O": {
+      "tag": "c:obsidians"
+    },
+    "P": {
+      "item": "techopolis:ender_teleportation_core"
+    },
+    "W": {
+      "tag": "c:wools"
+    }
+  },
+  "pattern": [
+    "BWB",
+    "OCO",
+    "BPB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "enderstorage:ender_chest"
+  }
+}

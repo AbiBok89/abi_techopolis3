@@ -1,0 +1,26 @@
+{
+  "type": "enderstorage:create_recipe",
+  "key": {
+    "B": {
+      "item": "techopolis:advanced_technium_nugget"
+    },
+    "L": {
+      "tag": "c:leathers"
+    },
+    "P": {
+      "item": "techopolis:ender_teleportation_core"
+    },
+    "W": {
+      "tag": "c:wools"
+    }
+  },
+  "pattern": [
+    "BLB",
+    "LPL",
+    "BWB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "enderstorage:ender_pouch"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "predictions",
+  "name": {
+    "translate": "collapsible_groups.group.predictions",
+    "fallback": "Predictions"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "hostilenetworks:prediction"
+  }
+}

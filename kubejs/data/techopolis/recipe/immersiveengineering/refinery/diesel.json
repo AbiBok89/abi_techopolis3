@@ -1,0 +1,16 @@
+{
+    "type": "immersiveengineering:refinery",
+    "energy": 240,
+    "input0": {
+      "amount": 1000,
+      "tag": "immersiveengineering:biodiesel"
+    },
+    "input1": {
+      "amount": 1000,
+      "tag": "techopolis:oil"
+    },
+    "result": {
+      "amount": 1000,
+      "id": "stellaris:diesel"
+    }
+}

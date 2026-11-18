@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_crafting_table_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_crafting_table_copy",
+    "fallback": "Colors: Crafting Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "crafting_table"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

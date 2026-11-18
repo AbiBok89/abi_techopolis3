@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "techopolis:item/dimensional_infuser_placer"
+  }
+}

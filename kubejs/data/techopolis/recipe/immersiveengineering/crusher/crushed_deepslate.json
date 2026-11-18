@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "minecraft:deepslate"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "techopolis:crushed_deepslate"
+    },
+    "count": 3
+  }
+}

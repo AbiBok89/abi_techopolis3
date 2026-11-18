@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "techopolis:block/moon_quarry_front",
+    "side": "techopolis:block/machine_side",
+    "top": "techopolis:block/machine_top"
+  }
+}

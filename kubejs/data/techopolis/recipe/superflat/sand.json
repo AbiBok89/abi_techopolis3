@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "bblcore:world_type_condition",
+      "world_type": "minecraft:flat"
+    }
+  ],
+  "type": "inworldrecipes:right_click_on_block_transforms_item",
+  "held_item":
+  {
+      "tag": "techopolis:hammers"
+  }
+  ,
+  "target_block": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "damage_held_item": true,
+  "consume_held_item": false,
+  "destroy_target_block": true,
+  "pop_item": true,
+  "results": [
+    {
+      "item": {
+        "count": 1,
+        "id": "minecraft:sand"
+      }
+    }
+  ]
+}

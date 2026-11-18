@@ -1,0 +1,10 @@
+{
+    "type": "immersiveengineering:blast_furnace",
+    "input": {
+      "item": "mekanism:salt"
+    },
+    "result": {
+      "item": "techopolis:burnt_redstone"
+    },
+    "time": 200
+  }

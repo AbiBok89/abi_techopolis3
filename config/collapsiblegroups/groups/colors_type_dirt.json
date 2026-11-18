@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_dirt_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_dirt_copy",
+    "fallback": "Colors: Dirt"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "dirt"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

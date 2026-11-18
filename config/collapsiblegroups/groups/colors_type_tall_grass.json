@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_tall_grass_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_tall_grass_copy",
+    "fallback": "Colors: Tall Grass"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "tall_grass"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

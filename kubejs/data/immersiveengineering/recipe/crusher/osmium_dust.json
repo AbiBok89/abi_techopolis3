@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "techopolis:dirty_osmium_dust"
+  },
+  "result": {
+    "tag": "c:dusts/osmium"
+  }
+}

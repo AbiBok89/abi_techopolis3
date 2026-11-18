@@ -1,0 +1,27 @@
+{
+    "entity": "minecraft:blaze",
+    "variants": [],
+    "name": {
+        "translate": "entity.minecraft.blaze",
+        "color": "#FFD528"
+    },
+    "display": {},
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "hostilenetworks.trivia.blaze",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:blaze_powder",
+            "count": 10
+        },
+        {
+            "id": "minecraft:blaze_rod",
+            "count": 6
+        }
+    ]
+}

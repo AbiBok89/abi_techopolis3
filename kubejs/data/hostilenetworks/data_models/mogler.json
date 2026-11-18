@@ -1,0 +1,23 @@
+{
+    "entity": "stellaris:mogler",
+    "variants": [],
+    "name": {
+        "translate": "entity.stellaris.mogler",
+        "color": "#782124"
+    },
+    "display": {},
+    "sim_cost": 2048,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "techopolis:alien_prediction"
+    },
+    "trivia": "techopolis.trivia.mogler",
+    "fabricator_drops": [
+        {
+            "id": "techopolis:mogler_hide",
+            "count": 3
+        }
+    ]
+}

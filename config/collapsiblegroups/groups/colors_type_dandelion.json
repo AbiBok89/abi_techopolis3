@@ -1,0 +1,19 @@
+{
+  "id": "contained_colors_type_dandelion_copy",
+  "name": {
+    "translate": "collapsible_groups.group.contained_colors_type_dandelion_copy",
+    "fallback": "Colors: Dandelions"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "item_path_ends_with": "dandelion"
+      },
+      {
+        "type": "item",
+        "namespace": "colors"
+      }
+    ]
+  }
+}

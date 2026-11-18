@@ -1,0 +1,106 @@
+{
+  "name": {
+    "text": {
+      "translate": "Water Purifier"
+    }
+  },
+  "appearance": {
+    "custommachinery:block": "techopolis:machine/water_purifier",
+    "custommachinery:hardness": 1.5,
+    "custommachinery:mining_level": "minecraft:needs_stone_tool",
+    "custommachinery:requires_tool": false,
+    "custommachinery:resistance": 6.0
+  },
+  "components": [
+    {
+      "type": "custommachinery:fluid",
+      "mode": "output",
+      "max_input": 0,
+      "id": "fluid_output",
+      "capacity": 64000
+    },
+    {
+      "type": "custommachinery:fluid",
+      "mode": "input",
+      "max_output": 0,
+      "id": "input_fluid",
+      "capacity": 64000
+    },
+    {
+      "type": "custommachinery:item_upgrade",
+      "id": "upgrade",
+      "mode": "input",
+      "capacity": 1
+    }
+  ],
+  "gui": [
+    {
+      "type": "custommachinery:config",
+      "x": 193,
+      "y": 63,
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "custommachinery:fluid",
+      "id": "fluid_output",
+      "x": 155,
+      "y": 25
+    },
+    {
+      "type": "custommachinery:fluid",
+      "id": "input_fluid",
+      "x": 84,
+      "y": 25
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 48,
+      "y": 82
+    },
+    {
+      "type": "custommachinery:progress",
+      "x": 116,
+      "y": 31
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "upgrade",
+      "x": 119,
+      "y": 51,
+      "ghost": {
+        "items": {
+          "item": "techopolis:basic_technium_machine_frame"
+        },
+        "color": {
+          "alpha": 0.29803923
+        }
+      }
+    },
+    {
+      "type": "custommachinery:status",
+      "x": 196,
+      "y": 3
+    },
+    {
+      "type": "custommachinery:text",
+      "x": 47,
+      "y": 5,
+      "height": 9,
+      "text": {
+        "text": {
+          "translate": "Water Purifier"
+        }
+      }
+    },
+    {
+      "type": "custommachinery:texture",
+      "priority": 1,
+      "texture": {
+        "texture": "techopolis:textures/gui/fluid_injector_background.png"
+      },
+      "x": 41,
+      "y": 0
+    }
+  ]
+}

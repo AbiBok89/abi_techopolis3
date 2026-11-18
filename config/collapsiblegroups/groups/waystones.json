@@ -1,0 +1,52 @@
+{
+  "id": "waystones",
+  "name": {
+    "translate": "collapsible_groups.group.waystones",
+    "fallback": "Waystones"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "waystones:waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:mossy_waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:sandy_waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:deepslate_waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:blackstone_waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:end_stone_waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:red_nether_bricks_waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:purpur_waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:prismarine_waystone"
+      },
+      {
+        "type": "item",
+        "id": "waystones:mud_bricks_waystone"
+      }
+    ]
+  }
+}

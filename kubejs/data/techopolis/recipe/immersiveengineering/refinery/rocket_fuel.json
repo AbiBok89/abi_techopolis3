@@ -1,0 +1,16 @@
+{
+    "type": "immersiveengineering:refinery",
+    "energy": 240,
+    "input0": {
+      "amount": 1000,
+      "tag": "techopolis:empowered_oil"
+    },
+    "input1": {
+      "amount": 1000,
+      "tag": "techopolis:oil"
+    },
+    "result": {
+      "amount": 2000,
+      "id": "stellaris:fuel"
+    }
+}

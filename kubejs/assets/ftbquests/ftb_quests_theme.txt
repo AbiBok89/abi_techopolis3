@@ -1,0 +1,111 @@
+[*]
+dependency_line_unselected_speed: 1.0d
+quest_locked_color: #000000
+dependency_line_uncompleted_color: #404040
+dependency_line_thickness: 0.15
+
+
+
+[352D842B47601587]
+dependency_line_completed_color: #cf6d2a
+
+[1E5E113CDDCA318F]
+dependency_line_completed_color: #cf6d2a
+
+[3DC9B3127DB86B0A]
+dependency_line_completed_color: #cf6d2a
+
+[06A906FDDB3A1E47]
+dependency_line_completed_color: #cf6d2a
+
+
+
+[3A4A8A7628BC6589]
+dependency_line_completed_color: #d5d5d5
+
+[4F56581EBA28EE04]
+dependency_line_completed_color: #d5d5d5
+
+[2F964226768854CD]
+dependency_line_completed_color: #d5d5d5
+
+[32CCCAE6DDC44589]
+dependency_line_completed_color: #d5d5d5
+
+
+
+[15505F228A3E783D]
+dependency_line_completed_color: #e9d04f
+
+[7118110DAA84E0A3]
+dependency_line_completed_color: #e9d04f
+
+[688AC1F4D490A72C]
+dependency_line_completed_color: #e9d04f
+
+[7895EEE1B43945DC]
+dependency_line_completed_color: #e9d04f
+
+
+
+[75F2EB67B996B906]
+dependency_line_completed_color: #22d69b
+
+[6F79DAF4007E988B]
+dependency_line_completed_color: #22d69b
+
+[1B3CA7208B639EE2]
+dependency_line_completed_color: #22d69b
+
+[250D7F68E3C2814E]
+dependency_line_completed_color: #22d69b
+
+
+
+[3C7DDDF726455D1A]
+dependency_line_completed_color: #6e5447
+
+[5E946E592C72AA24]
+dependency_line_completed_color: #6e5447
+
+[20DFE1D59E6B033A]
+dependency_line_completed_color: #6e5447
+
+[1F397164BBEF8D8C]
+dependency_line_completed_color: #6e5447
+
+		
+
+[58C2785C6743FF34]
+dependency_line_completed_color: #718aa5
+
+[0FD91DAEE809C3EA]
+dependency_line_completed_color: #718aa5
+
+[48666630298DCB4B]
+dependency_line_completed_color: #718aa5
+
+[2AD7999C77649A4B]
+dependency_line_completed_color: #718aa5
+
+
+
+[709F991F6D4FB36A]
+dependency_line_completed_color: #BDC38F
+
+[0E48DAD5B3DAC398]
+dependency_line_completed_color: #BDC38F
+
+[2E00C08CEA228C7A]
+dependency_line_completed_color: #BDC38F
+
+
+
+
+[7608468FCC464ADF]
+dependency_line_completed_color: #DE91EF
+
+
+
+
+

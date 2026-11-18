@@ -1,0 +1,15 @@
+{
+    "type": "bblcore:add_item",
+    "conditions": [
+      {
+        "chance": 0.3,
+        "condition": "minecraft:random_chance"
+      },
+      {
+        "block": "minecraft:tall_grass",
+        "condition": "minecraft:block_state_property"
+      }
+    ],
+    "item": "minecraft:melon_seeds",
+    "count": 1
+  }

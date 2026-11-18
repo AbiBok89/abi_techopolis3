@@ -1,0 +1,18 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": {
+    "amount": 500,
+    "tag": "techopolis:chocolate"
+  },
+  "input": {
+    "item": "techopolis:easter_egg_mold"
+  },
+  "results": [
+    {
+      "item": "techopolis:easter_egg_mold"
+    },    
+	{
+      "item": "techopolis:easter_egg_shell"
+    }
+  ]
+}

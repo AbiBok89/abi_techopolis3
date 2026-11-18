@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "techopolis:block/basic_gravel_miner_front",
+    "side": "techopolis:block/gravel_miner_side",
+    "top": "techopolis:block/gravel_miner_top"
+  }
+}

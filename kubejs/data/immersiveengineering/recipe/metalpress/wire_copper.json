@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:wires/copper"
+      }
+    }
+  ],
+  "type": "immersiveengineering:metal_press",
+  "energy": 2400,
+  "input": {
+    "tag": "c:ingots/copper"
+  },
+  "mold": "casting:wire_mold",
+  "result": {
+    "basePredicate": {
+      "tag": "c:wires/copper"
+    },
+    "count": 2
+  }
+}

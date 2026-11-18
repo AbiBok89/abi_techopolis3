@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "techopolis:block/elite_sand_miner_front",
+    "side": "techopolis:block/sand_miner_side",
+    "top": "techopolis:block/sand_miner_top"
+  }
+}
